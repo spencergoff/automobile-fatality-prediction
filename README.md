@@ -4,13 +4,13 @@
 Attempts to accurately predict the number of fatalities caused by automobile-related incidents given the hour, day of the week, and the current weather conditions. 
 
 ### About the Data
-The files auto_fatalities.csv and auto_fatalities_numeric.csv were organized by me using data from https://www-fars.nhtsa.dot.gov/QueryTool/querysection/selectyear.aspx
+The files auto_fatalities_data.csv and auto_fatalities_data_numeric.csv were organized by me using data from https://www-fars.nhtsa.dot.gov/QueryTool/querysection/selectyear.aspx
 
 I documented the steps I took to query this data in automobile-fatalities-query-steps.pdf.  
 
-auto_fatalities.csv contains data in which the day, hour, and weather fields are kept human-readable
+auto_fatalities_data.csv contains data in which the day, hour, and weather fields are kept human-readable
 
-auto_fatalities_numeric.csv contains data in which the day, hour, and weather fields are assigned discrete values as listed below. In order for the data to work with the regression model, I had to assign numerical descriptors to each of the possible non-numeric values. Here are the corresponding values:
+auto_fatalities_data_numeric.csv contains data in which the day, hour, and weather fields are assigned discrete values as listed below. In order for the data to work with the regression model, I had to assign numerical descriptors to each of the possible non-numeric values. Here are the corresponding values:
 
 Sunday: 0  
 Monday: 1  
