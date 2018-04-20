@@ -1,0 +1,1681 @@
+﻿day,hour,weather,num_fatalities
+Sunday,0:00am-0:59am,Clear,211
+Sunday,0:00am-0:59am,Rain,17
+Sunday,0:00am-0:59am,Sleet or Hail,1
+Sunday,0:00am-0:59am,Snow,2
+Sunday,0:00am-0:59am,"Fog, Smog, Smoke",5
+Sunday,0:00am-0:59am,Severe Crosswinds,0
+Sunday,0:00am-0:59am,Other,0
+Sunday,0:00am-0:59am,Cloudy,46
+Sunday,0:00am-0:59am,Blowing Snow,0
+Sunday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Sunday,1:00am-1:59am,Clear,237
+Sunday,1:00am-1:59am,Rain,14
+Sunday,1:00am-1:59am,Sleet or Hail,1
+Sunday,1:00am-1:59am,Snow,0
+Sunday,1:00am-1:59am,"Fog, Smog, Smoke",2
+Sunday,1:00am-1:59am,Severe Crosswinds,0
+Sunday,1:00am-1:59am,Other,0
+Sunday,1:00am-1:59am,Cloudy,47
+Sunday,1:00am-1:59am,Blowing Snow,0
+Sunday,1:00am-1:59am,Freezing Rain or Drizzle,0
+Sunday,2:00am-2:59am,Clear,285
+Sunday,2:00am-2:59am,Rain,25
+Sunday,2:00am-2:59am,Sleet or Hail,1
+Sunday,2:00am-2:59am,Snow,4
+Sunday,2:00am-2:59am,"Fog, Smog, Smoke",5
+Sunday,2:00am-2:59am,Severe Crosswinds,0
+Sunday,2:00am-2:59am,Other,0
+Sunday,2:00am-2:59am,Cloudy,49
+Sunday,2:00am-2:59am,Blowing Snow,0
+Sunday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Sunday,3:00am-3:59am,Clear,205
+Sunday,3:00am-3:59am,Rain,12
+Sunday,3:00am-3:59am,Sleet or Hail,1
+Sunday,3:00am-3:59am,Snow,2
+Sunday,3:00am-3:59am,"Fog, Smog, Smoke",5
+Sunday,3:00am-3:59am,Severe Crosswinds,0
+Sunday,3:00am-3:59am,Other,1
+Sunday,3:00am-3:59am,Cloudy,32
+Sunday,3:00am-3:59am,Blowing Snow,0
+Sunday,3:00am-3:59am,Freezing Rain or Drizzle,1
+Sunday,4:00am-4:59am,Clear,147
+Sunday,4:00am-4:59am,Rain,14
+Sunday,4:00am-4:59am,Sleet or Hail,0
+Sunday,4:00am-4:59am,Snow,0
+Sunday,4:00am-4:59am,"Fog, Smog, Smoke",2
+Sunday,4:00am-4:59am,Severe Crosswinds,0
+Sunday,4:00am-4:59am,Other,0
+Sunday,4:00am-4:59am,Cloudy,30
+Sunday,4:00am-4:59am,Blowing Snow,0
+Sunday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Sunday,5:00am-5:59am,Clear,114
+Sunday,5:00am-5:59am,Rain,6
+Sunday,5:00am-5:59am,Sleet or Hail,0
+Sunday,5:00am-5:59am,Snow,1
+Sunday,5:00am-5:59am,"Fog, Smog, Smoke",4
+Sunday,5:00am-5:59am,Severe Crosswinds,1
+Sunday,5:00am-5:59am,Other,1
+Sunday,5:00am-5:59am,Cloudy,28
+Sunday,5:00am-5:59am,Blowing Snow,0
+Sunday,5:00am-5:59am,Freezing Rain or Drizzle,0
+Sunday,6:00am-6:59am,Clear,103
+Sunday,6:00am-6:59am,Rain,9
+Sunday,6:00am-6:59am,Sleet or Hail,0
+Sunday,6:00am-6:59am,Snow,1
+Sunday,6:00am-6:59am,"Fog, Smog, Smoke",4
+Sunday,6:00am-6:59am,Severe Crosswinds,0
+Sunday,6:00am-6:59am,Other,0
+Sunday,6:00am-6:59am,Cloudy,28
+Sunday,6:00am-6:59am,Blowing Snow,0
+Sunday,6:00am-6:59am,Freezing Rain or Drizzle,0
+Sunday,7:00am-7:59am,Clear,78
+Sunday,7:00am-7:59am,Rain,3
+Sunday,7:00am-7:59am,Sleet or Hail,0
+Sunday,7:00am-7:59am,Snow,1
+Sunday,7:00am-7:59am,"Fog, Smog, Smoke",3
+Sunday,7:00am-7:59am,Severe Crosswinds,0
+Sunday,7:00am-7:59am,Other,0
+Sunday,7:00am-7:59am,Cloudy,14
+Sunday,7:00am-7:59am,Blowing Snow,0
+Sunday,7:00am-7:59am,Freezing Rain or Drizzle,1
+Sunday,8:00am-8:59am,Clear,71
+Sunday,8:00am-8:59am,Rain,9
+Sunday,8:00am-8:59am,Sleet or Hail,0
+Sunday,8:00am-8:59am,Snow,3
+Sunday,8:00am-8:59am,"Fog, Smog, Smoke",1
+Sunday,8:00am-8:59am,Severe Crosswinds,0
+Sunday,8:00am-8:59am,Other,0
+Sunday,8:00am-8:59am,Cloudy,20
+Sunday,8:00am-8:59am,Blowing Snow,0
+Sunday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Sunday,9:00am-9:59am,Clear,103
+Sunday,9:00am-9:59am,Rain,8
+Sunday,9:00am-9:59am,Sleet or Hail,1
+Sunday,9:00am-9:59am,Snow,2
+Sunday,9:00am-9:59am,"Fog, Smog, Smoke",0
+Sunday,9:00am-9:59am,Severe Crosswinds,0
+Sunday,9:00am-9:59am,Other,0
+Sunday,9:00am-9:59am,Cloudy,22
+Sunday,9:00am-9:59am,Blowing Snow,0
+Sunday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Sunday,10:00am-10:59am,Clear,83
+Sunday,10:00am-10:59am,Rain,5
+Sunday,10:00am-10:59am,Sleet or Hail,2
+Sunday,10:00am-10:59am,Snow,0
+Sunday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Sunday,10:00am-10:59am,Severe Crosswinds,0
+Sunday,10:00am-10:59am,Other,0
+Sunday,10:00am-10:59am,Cloudy,18
+Sunday,10:00am-10:59am,Blowing Snow,1
+Sunday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Sunday,11:00am-11:59am,Clear,117
+Sunday,11:00am-11:59am,Rain,3
+Sunday,11:00am-11:59am,Sleet or Hail,0
+Sunday,11:00am-11:59am,Snow,4
+Sunday,11:00am-11:59am,"Fog, Smog, Smoke",1
+Sunday,11:00am-11:59am,Severe Crosswinds,0
+Sunday,11:00am-11:59am,Other,0
+Sunday,11:00am-11:59am,Cloudy,24
+Sunday,11:00am-11:59am,Blowing Snow,0
+Sunday,11:00am-11:59am,Freezing Rain or Drizzle,0
+Sunday,12:00pm-12:59pm,Clear,125
+Sunday,12:00pm-12:59pm,Rain,22
+Sunday,12:00pm-12:59pm,Sleet or Hail,0
+Sunday,12:00pm-12:59pm,Snow,5
+Sunday,12:00pm-12:59pm,"Fog, Smog, Smoke",0
+Sunday,12:00pm-12:59pm,Severe Crosswinds,1
+Sunday,12:00pm-12:59pm,Other,0
+Sunday,12:00pm-12:59pm,Cloudy,28
+Sunday,12:00pm-12:59pm,Blowing Snow,0
+Sunday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Sunday,1:00pm-1:59pm,Clear,149
+Sunday,1:00pm-1:59pm,Rain,11
+Sunday,1:00pm-1:59pm,Sleet or Hail,0
+Sunday,1:00pm-1:59pm,Snow,5
+Sunday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Sunday,1:00pm-1:59pm,Severe Crosswinds,0
+Sunday,1:00pm-1:59pm,Other,0
+Sunday,1:00pm-1:59pm,Cloudy,24
+Sunday,1:00pm-1:59pm,Blowing Snow,0
+Sunday,1:00pm-1:59pm,Freezing Rain or Drizzle,0
+Sunday,2:00pm-2:59pm,Clear,156
+Sunday,2:00pm-2:59pm,Rain,9
+Sunday,2:00pm-2:59pm,Sleet or Hail,0
+Sunday,2:00pm-2:59pm,Snow,1
+Sunday,2:00pm-2:59pm,"Fog, Smog, Smoke",1
+Sunday,2:00pm-2:59pm,Severe Crosswinds,2
+Sunday,2:00pm-2:59pm,Other,0
+Sunday,2:00pm-2:59pm,Cloudy,29
+Sunday,2:00pm-2:59pm,Blowing Snow,0
+Sunday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Sunday,3:00pm-3:59pm,Clear,184
+Sunday,3:00pm-3:59pm,Rain,14
+Sunday,3:00pm-3:59pm,Sleet or Hail,0
+Sunday,3:00pm-3:59pm,Snow,1
+Sunday,3:00pm-3:59pm,"Fog, Smog, Smoke",1
+Sunday,3:00pm-3:59pm,Severe Crosswinds,2
+Sunday,3:00pm-3:59pm,Other,0
+Sunday,3:00pm-3:59pm,Cloudy,34
+Sunday,3:00pm-3:59pm,Blowing Snow,0
+Sunday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Sunday,4:00pm-4:59pm,Clear,190
+Sunday,4:00pm-4:59pm,Rain,14
+Sunday,4:00pm-4:59pm,Sleet or Hail,0
+Sunday,4:00pm-4:59pm,Snow,2
+Sunday,4:00pm-4:59pm,"Fog, Smog, Smoke",0
+Sunday,4:00pm-4:59pm,Severe Crosswinds,0
+Sunday,4:00pm-4:59pm,Other,0
+Sunday,4:00pm-4:59pm,Cloudy,33
+Sunday,4:00pm-4:59pm,Blowing Snow,0
+Sunday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Sunday,5:00pm-5:59pm,Clear,199
+Sunday,5:00pm-5:59pm,Rain,20
+Sunday,5:00pm-5:59pm,Sleet or Hail,0
+Sunday,5:00pm-5:59pm,Snow,3
+Sunday,5:00pm-5:59pm,"Fog, Smog, Smoke",1
+Sunday,5:00pm-5:59pm,Severe Crosswinds,1
+Sunday,5:00pm-5:59pm,Other,0
+Sunday,5:00pm-5:59pm,Cloudy,35
+Sunday,5:00pm-5:59pm,Blowing Snow,0
+Sunday,5:00pm-5:59pm,Freezing Rain or Drizzle,0
+Sunday,6:00pm-6:59pm,Clear,210
+Sunday,6:00pm-6:59pm,Rain,20
+Sunday,6:00pm-6:59pm,Sleet or Hail,0
+Sunday,6:00pm-6:59pm,Snow,3
+Sunday,6:00pm-6:59pm,"Fog, Smog, Smoke",0
+Sunday,6:00pm-6:59pm,Severe Crosswinds,0
+Sunday,6:00pm-6:59pm,Other,0
+Sunday,6:00pm-6:59pm,Cloudy,38
+Sunday,6:00pm-6:59pm,Blowing Snow,1
+Sunday,6:00pm-6:59pm,Freezing Rain or Drizzle,0
+Sunday,7:00pm-7:59pm,Clear,172
+Sunday,7:00pm-7:59pm,Rain,25
+Sunday,7:00pm-7:59pm,Sleet or Hail,0
+Sunday,7:00pm-7:59pm,Snow,2
+Sunday,7:00pm-7:59pm,"Fog, Smog, Smoke",1
+Sunday,7:00pm-7:59pm,Severe Crosswinds,0
+Sunday,7:00pm-7:59pm,Other,1
+Sunday,7:00pm-7:59pm,Cloudy,41
+Sunday,7:00pm-7:59pm,Blowing Snow,0
+Sunday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Sunday,8:00pm-8:59pm,Clear,228
+Sunday,8:00pm-8:59pm,Rain,13
+Sunday,8:00pm-8:59pm,Sleet or Hail,1
+Sunday,8:00pm-8:59pm,Snow,2
+Sunday,8:00pm-8:59pm,"Fog, Smog, Smoke",5
+Sunday,8:00pm-8:59pm,Severe Crosswinds,0
+Sunday,8:00pm-8:59pm,Other,0
+Sunday,8:00pm-8:59pm,Cloudy,42
+Sunday,8:00pm-8:59pm,Blowing Snow,0
+Sunday,8:00pm-8:59pm,Freezing Rain or Drizzle,0
+Sunday,9:00pm-9:59pm,Clear,198
+Sunday,9:00pm-9:59pm,Rain,15
+Sunday,9:00pm-9:59pm,Sleet or Hail,1
+Sunday,9:00pm-9:59pm,Snow,1
+Sunday,9:00pm-9:59pm,"Fog, Smog, Smoke",0
+Sunday,9:00pm-9:59pm,Severe Crosswinds,0
+Sunday,9:00pm-9:59pm,Other,0
+Sunday,9:00pm-9:59pm,Cloudy,35
+Sunday,9:00pm-9:59pm,Blowing Snow,0
+Sunday,9:00pm-9:59pm,Freezing Rain or Drizzle,0
+Sunday,10:00pm-10:59pm,Clear,141
+Sunday,10:00pm-10:59pm,Rain,11
+Sunday,10:00pm-10:59pm,Sleet or Hail,0
+Sunday,10:00pm-10:59pm,Snow,3
+Sunday,10:00pm-10:59pm,"Fog, Smog, Smoke",1
+Sunday,10:00pm-10:59pm,Severe Crosswinds,0
+Sunday,10:00pm-10:59pm,Other,0
+Sunday,10:00pm-10:59pm,Cloudy,30
+Sunday,10:00pm-10:59pm,Blowing Snow,0
+Sunday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Sunday,11:00pm-11:59pm,Clear,120
+Sunday,11:00pm-11:59pm,Rain,7
+Sunday,11:00pm-11:59pm,Sleet or Hail,0
+Sunday,11:00pm-11:59pm,Snow,0
+Sunday,11:00pm-11:59pm,"Fog, Smog, Smoke",1
+Sunday,11:00pm-11:59pm,Severe Crosswinds,0
+Sunday,11:00pm-11:59pm,Other,0
+Sunday,11:00pm-11:59pm,Cloudy,26
+Sunday,11:00pm-11:59pm,Blowing Snow,0
+Sunday,11:00pm-11:59pm,Freezing Rain or Drizzle,0
+Monday,0:00am-0:59am,Clear,966
+Monday,0:00am-0:59am,Rain,82
+Monday,0:00am-0:59am,Sleet or Hail,1
+Monday,0:00am-0:59am,Snow,13
+Monday,0:00am-0:59am,"Fog, Smog, Smoke",17
+Monday,0:00am-0:59am,Severe Crosswinds,1
+Monday,0:00am-0:59am,Other,4
+Monday,0:00am-0:59am,Cloudy,184
+Monday,0:00am-0:59am,Blowing Snow,0
+Monday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Monday,1:00am-1:59am,Clear,920
+Monday,1:00am-1:59am,Rain,73
+Monday,1:00am-1:59am,Sleet or Hail,3
+Monday,1:00am-1:59am,Snow,6
+Monday,1:00am-1:59am,"Fog, Smog, Smoke",18
+Monday,1:00am-1:59am,Severe Crosswinds,1
+Monday,1:00am-1:59am,Other,1
+Monday,1:00am-1:59am,Cloudy,187
+Monday,1:00am-1:59am,Blowing Snow,0
+Monday,1:00am-1:59am,Freezing Rain or Drizzle,1
+Monday,2:00am-2:59am,Clear,1016
+Monday,2:00am-2:59am,Rain,84
+Monday,2:00am-2:59am,Sleet or Hail,1
+Monday,2:00am-2:59am,Snow,15
+Monday,2:00am-2:59am,"Fog, Smog, Smoke",14
+Monday,2:00am-2:59am,Severe Crosswinds,0
+Monday,2:00am-2:59am,Other,3
+Monday,2:00am-2:59am,Cloudy,167
+Monday,2:00am-2:59am,Blowing Snow,0
+Monday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Monday,3:00am-3:59am,Clear,758
+Monday,3:00am-3:59am,Rain,50
+Monday,3:00am-3:59am,Sleet or Hail,1
+Monday,3:00am-3:59am,Snow,6
+Monday,3:00am-3:59am,"Fog, Smog, Smoke",23
+Monday,3:00am-3:59am,Severe Crosswinds,0
+Monday,3:00am-3:59am,Other,1
+Monday,3:00am-3:59am,Cloudy,135
+Monday,3:00am-3:59am,Blowing Snow,0
+Monday,3:00am-3:59am,Freezing Rain or Drizzle,1
+Monday,4:00am-4:59am,Clear,590
+Monday,4:00am-4:59am,Rain,62
+Monday,4:00am-4:59am,Sleet or Hail,0
+Monday,4:00am-4:59am,Snow,8
+Monday,4:00am-4:59am,"Fog, Smog, Smoke",11
+Monday,4:00am-4:59am,Severe Crosswinds,2
+Monday,4:00am-4:59am,Other,1
+Monday,4:00am-4:59am,Cloudy,119
+Monday,4:00am-4:59am,Blowing Snow,2
+Monday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Monday,5:00am-5:59am,Clear,763
+Monday,5:00am-5:59am,Rain,74
+Monday,5:00am-5:59am,Sleet or Hail,2
+Monday,5:00am-5:59am,Snow,11
+Monday,5:00am-5:59am,"Fog, Smog, Smoke",40
+Monday,5:00am-5:59am,Severe Crosswinds,5
+Monday,5:00am-5:59am,Other,2
+Monday,5:00am-5:59am,Cloudy,196
+Monday,5:00am-5:59am,Blowing Snow,0
+Monday,5:00am-5:59am,Freezing Rain or Drizzle,1
+Monday,6:00am-6:59am,Clear,832
+Monday,6:00am-6:59am,Rain,77
+Monday,6:00am-6:59am,Sleet or Hail,1
+Monday,6:00am-6:59am,Snow,14
+Monday,6:00am-6:59am,"Fog, Smog, Smoke",59
+Monday,6:00am-6:59am,Severe Crosswinds,0
+Monday,6:00am-6:59am,Other,1
+Monday,6:00am-6:59am,Cloudy,244
+Monday,6:00am-6:59am,Blowing Snow,0
+Monday,6:00am-6:59am,Freezing Rain or Drizzle,1
+Monday,7:00am-7:59am,Clear,765
+Monday,7:00am-7:59am,Rain,58
+Monday,7:00am-7:59am,Sleet or Hail,4
+Monday,7:00am-7:59am,Snow,15
+Monday,7:00am-7:59am,"Fog, Smog, Smoke",33
+Monday,7:00am-7:59am,Severe Crosswinds,1
+Monday,7:00am-7:59am,Other,4
+Monday,7:00am-7:59am,Cloudy,196
+Monday,7:00am-7:59am,Blowing Snow,0
+Monday,7:00am-7:59am,Freezing Rain or Drizzle,2
+Monday,8:00am-8:59am,Clear,628
+Monday,8:00am-8:59am,Rain,73
+Monday,8:00am-8:59am,Sleet or Hail,3
+Monday,8:00am-8:59am,Snow,19
+Monday,8:00am-8:59am,"Fog, Smog, Smoke",19
+Monday,8:00am-8:59am,Severe Crosswinds,1
+Monday,8:00am-8:59am,Other,0
+Monday,8:00am-8:59am,Cloudy,172
+Monday,8:00am-8:59am,Blowing Snow,0
+Monday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Monday,9:00am-9:59am,Clear,694
+Monday,9:00am-9:59am,Rain,65
+Monday,9:00am-9:59am,Sleet or Hail,2
+Monday,9:00am-9:59am,Snow,14
+Monday,9:00am-9:59am,"Fog, Smog, Smoke",5
+Monday,9:00am-9:59am,Severe Crosswinds,1
+Monday,9:00am-9:59am,Other,0
+Monday,9:00am-9:59am,Cloudy,151
+Monday,9:00am-9:59am,Blowing Snow,1
+Monday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Monday,10:00am-10:59am,Clear,721
+Monday,10:00am-10:59am,Rain,54
+Monday,10:00am-10:59am,Sleet or Hail,2
+Monday,10:00am-10:59am,Snow,13
+Monday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Monday,10:00am-10:59am,Severe Crosswinds,4
+Monday,10:00am-10:59am,Other,4
+Monday,10:00am-10:59am,Cloudy,169
+Monday,10:00am-10:59am,Blowing Snow,2
+Monday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Monday,11:00am-11:59am,Clear,897
+Monday,11:00am-11:59am,Rain,59
+Monday,11:00am-11:59am,Sleet or Hail,2
+Monday,11:00am-11:59am,Snow,19
+Monday,11:00am-11:59am,"Fog, Smog, Smoke",4
+Monday,11:00am-11:59am,Severe Crosswinds,0
+Monday,11:00am-11:59am,Other,3
+Monday,11:00am-11:59am,Cloudy,171
+Monday,11:00am-11:59am,Blowing Snow,1
+Monday,11:00am-11:59am,Freezing Rain or Drizzle,2
+Monday,12:00pm-12:59pm,Clear,932
+Monday,12:00pm-12:59pm,Rain,81
+Monday,12:00pm-12:59pm,Sleet or Hail,4
+Monday,12:00pm-12:59pm,Snow,21
+Monday,12:00pm-12:59pm,"Fog, Smog, Smoke",2
+Monday,12:00pm-12:59pm,Severe Crosswinds,2
+Monday,12:00pm-12:59pm,Other,1
+Monday,12:00pm-12:59pm,Cloudy,202
+Monday,12:00pm-12:59pm,Blowing Snow,0
+Monday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Monday,1:00pm-1:59pm,Clear,1100
+Monday,1:00pm-1:59pm,Rain,75
+Monday,1:00pm-1:59pm,Sleet or Hail,5
+Monday,1:00pm-1:59pm,Snow,13
+Monday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Monday,1:00pm-1:59pm,Severe Crosswinds,2
+Monday,1:00pm-1:59pm,Other,0
+Monday,1:00pm-1:59pm,Cloudy,226
+Monday,1:00pm-1:59pm,Blowing Snow,1
+Monday,1:00pm-1:59pm,Freezing Rain or Drizzle,1
+Monday,2:00pm-2:59pm,Clear,1114
+Monday,2:00pm-2:59pm,Rain,75
+Monday,2:00pm-2:59pm,Sleet or Hail,4
+Monday,2:00pm-2:59pm,Snow,19
+Monday,2:00pm-2:59pm,"Fog, Smog, Smoke",5
+Monday,2:00pm-2:59pm,Severe Crosswinds,5
+Monday,2:00pm-2:59pm,Other,1
+Monday,2:00pm-2:59pm,Cloudy,264
+Monday,2:00pm-2:59pm,Blowing Snow,0
+Monday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Monday,3:00pm-3:59pm,Clear,1253
+Monday,3:00pm-3:59pm,Rain,105
+Monday,3:00pm-3:59pm,Sleet or Hail,5
+Monday,3:00pm-3:59pm,Snow,10
+Monday,3:00pm-3:59pm,"Fog, Smog, Smoke",2
+Monday,3:00pm-3:59pm,Severe Crosswinds,7
+Monday,3:00pm-3:59pm,Other,3
+Monday,3:00pm-3:59pm,Cloudy,253
+Monday,3:00pm-3:59pm,Blowing Snow,0
+Monday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Monday,4:00pm-4:59pm,Clear,1370
+Monday,4:00pm-4:59pm,Rain,95
+Monday,4:00pm-4:59pm,Sleet or Hail,1
+Monday,4:00pm-4:59pm,Snow,18
+Monday,4:00pm-4:59pm,"Fog, Smog, Smoke",2
+Monday,4:00pm-4:59pm,Severe Crosswinds,4
+Monday,4:00pm-4:59pm,Other,3
+Monday,4:00pm-4:59pm,Cloudy,235
+Monday,4:00pm-4:59pm,Blowing Snow,0
+Monday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Monday,5:00pm-5:59pm,Clear,1341
+Monday,5:00pm-5:59pm,Rain,131
+Monday,5:00pm-5:59pm,Sleet or Hail,8
+Monday,5:00pm-5:59pm,Snow,15
+Monday,5:00pm-5:59pm,"Fog, Smog, Smoke",1
+Monday,5:00pm-5:59pm,Severe Crosswinds,3
+Monday,5:00pm-5:59pm,Other,0
+Monday,5:00pm-5:59pm,Cloudy,295
+Monday,5:00pm-5:59pm,Blowing Snow,0
+Monday,5:00pm-5:59pm,Freezing Rain or Drizzle,2
+Monday,6:00pm-6:59pm,Clear,1429
+Monday,6:00pm-6:59pm,Rain,139
+Monday,6:00pm-6:59pm,Sleet or Hail,5
+Monday,6:00pm-6:59pm,Snow,21
+Monday,6:00pm-6:59pm,"Fog, Smog, Smoke",2
+Monday,6:00pm-6:59pm,Severe Crosswinds,1
+Monday,6:00pm-6:59pm,Other,3
+Monday,6:00pm-6:59pm,Cloudy,276
+Monday,6:00pm-6:59pm,Blowing Snow,1
+Monday,6:00pm-6:59pm,Freezing Rain or Drizzle,1
+Monday,7:00pm-7:59pm,Clear,1379
+Monday,7:00pm-7:59pm,Rain,121
+Monday,7:00pm-7:59pm,Sleet or Hail,2
+Monday,7:00pm-7:59pm,Snow,12
+Monday,7:00pm-7:59pm,"Fog, Smog, Smoke",4
+Monday,7:00pm-7:59pm,Severe Crosswinds,1
+Monday,7:00pm-7:59pm,Other,4
+Monday,7:00pm-7:59pm,Cloudy,265
+Monday,7:00pm-7:59pm,Blowing Snow,1
+Monday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Monday,8:00pm-8:59pm,Clear,1375
+Monday,8:00pm-8:59pm,Rain,120
+Monday,8:00pm-8:59pm,Sleet or Hail,2
+Monday,8:00pm-8:59pm,Snow,15
+Monday,8:00pm-8:59pm,"Fog, Smog, Smoke",22
+Monday,8:00pm-8:59pm,Severe Crosswinds,0
+Monday,8:00pm-8:59pm,Other,3
+Monday,8:00pm-8:59pm,Cloudy,258
+Monday,8:00pm-8:59pm,Blowing Snow,0
+Monday,8:00pm-8:59pm,Freezing Rain or Drizzle,1
+Monday,9:00pm-9:59pm,Clear,1345
+Monday,9:00pm-9:59pm,Rain,121
+Monday,9:00pm-9:59pm,Sleet or Hail,1
+Monday,9:00pm-9:59pm,Snow,7
+Monday,9:00pm-9:59pm,"Fog, Smog, Smoke",10
+Monday,9:00pm-9:59pm,Severe Crosswinds,0
+Monday,9:00pm-9:59pm,Other,3
+Monday,9:00pm-9:59pm,Cloudy,223
+Monday,9:00pm-9:59pm,Blowing Snow,1
+Monday,9:00pm-9:59pm,Freezing Rain or Drizzle,1
+Monday,10:00pm-10:59pm,Clear,1175
+Monday,10:00pm-10:59pm,Rain,112
+Monday,10:00pm-10:59pm,Sleet or Hail,1
+Monday,10:00pm-10:59pm,Snow,14
+Monday,10:00pm-10:59pm,"Fog, Smog, Smoke",16
+Monday,10:00pm-10:59pm,Severe Crosswinds,0
+Monday,10:00pm-10:59pm,Other,2
+Monday,10:00pm-10:59pm,Cloudy,243
+Monday,10:00pm-10:59pm,Blowing Snow,0
+Monday,10:00pm-10:59pm,Freezing Rain or Drizzle,1
+Monday,11:00pm-11:59pm,Clear,1099
+Monday,11:00pm-11:59pm,Rain,86
+Monday,11:00pm-11:59pm,Sleet or Hail,3
+Monday,11:00pm-11:59pm,Snow,7
+Monday,11:00pm-11:59pm,"Fog, Smog, Smoke",12
+Monday,11:00pm-11:59pm,Severe Crosswinds,1
+Monday,11:00pm-11:59pm,Other,4
+Monday,11:00pm-11:59pm,Cloudy,202
+Monday,11:00pm-11:59pm,Blowing Snow,0
+Monday,11:00pm-11:59pm,Freezing Rain or Drizzle,1
+Tuesday,0:00am-0:59am,Clear,74
+Tuesday,0:00am-0:59am,Rain,11
+Tuesday,0:00am-0:59am,Sleet or Hail,0
+Tuesday,0:00am-0:59am,Snow,2
+Tuesday,0:00am-0:59am,"Fog, Smog, Smoke",1
+Tuesday,0:00am-0:59am,Severe Crosswinds,0
+Tuesday,0:00am-0:59am,Other,1
+Tuesday,0:00am-0:59am,Cloudy,12
+Tuesday,0:00am-0:59am,Blowing Snow,0
+Tuesday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Tuesday,1:00am-1:59am,Clear,78
+Tuesday,1:00am-1:59am,Rain,8
+Tuesday,1:00am-1:59am,Sleet or Hail,0
+Tuesday,1:00am-1:59am,Snow,0
+Tuesday,1:00am-1:59am,"Fog, Smog, Smoke",2
+Tuesday,1:00am-1:59am,Severe Crosswinds,0
+Tuesday,1:00am-1:59am,Other,0
+Tuesday,1:00am-1:59am,Cloudy,9
+Tuesday,1:00am-1:59am,Blowing Snow,0
+Tuesday,1:00am-1:59am,Freezing Rain or Drizzle,0
+Tuesday,2:00am-2:59am,Clear,67
+Tuesday,2:00am-2:59am,Rain,8
+Tuesday,2:00am-2:59am,Sleet or Hail,0
+Tuesday,2:00am-2:59am,Snow,2
+Tuesday,2:00am-2:59am,"Fog, Smog, Smoke",2
+Tuesday,2:00am-2:59am,Severe Crosswinds,0
+Tuesday,2:00am-2:59am,Other,0
+Tuesday,2:00am-2:59am,Cloudy,10
+Tuesday,2:00am-2:59am,Blowing Snow,0
+Tuesday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Tuesday,3:00am-3:59am,Clear,64
+Tuesday,3:00am-3:59am,Rain,3
+Tuesday,3:00am-3:59am,Sleet or Hail,0
+Tuesday,3:00am-3:59am,Snow,0
+Tuesday,3:00am-3:59am,"Fog, Smog, Smoke",4
+Tuesday,3:00am-3:59am,Severe Crosswinds,0
+Tuesday,3:00am-3:59am,Other,0
+Tuesday,3:00am-3:59am,Cloudy,13
+Tuesday,3:00am-3:59am,Blowing Snow,0
+Tuesday,3:00am-3:59am,Freezing Rain or Drizzle,0
+Tuesday,4:00am-4:59am,Clear,53
+Tuesday,4:00am-4:59am,Rain,6
+Tuesday,4:00am-4:59am,Sleet or Hail,0
+Tuesday,4:00am-4:59am,Snow,2
+Tuesday,4:00am-4:59am,"Fog, Smog, Smoke",0
+Tuesday,4:00am-4:59am,Severe Crosswinds,0
+Tuesday,4:00am-4:59am,Other,0
+Tuesday,4:00am-4:59am,Cloudy,14
+Tuesday,4:00am-4:59am,Blowing Snow,0
+Tuesday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Tuesday,5:00am-5:59am,Clear,95
+Tuesday,5:00am-5:59am,Rain,8
+Tuesday,5:00am-5:59am,Sleet or Hail,0
+Tuesday,5:00am-5:59am,Snow,0
+Tuesday,5:00am-5:59am,"Fog, Smog, Smoke",8
+Tuesday,5:00am-5:59am,Severe Crosswinds,1
+Tuesday,5:00am-5:59am,Other,0
+Tuesday,5:00am-5:59am,Cloudy,24
+Tuesday,5:00am-5:59am,Blowing Snow,0
+Tuesday,5:00am-5:59am,Freezing Rain or Drizzle,0
+Tuesday,6:00am-6:59am,Clear,135
+Tuesday,6:00am-6:59am,Rain,14
+Tuesday,6:00am-6:59am,Sleet or Hail,0
+Tuesday,6:00am-6:59am,Snow,1
+Tuesday,6:00am-6:59am,"Fog, Smog, Smoke",18
+Tuesday,6:00am-6:59am,Severe Crosswinds,0
+Tuesday,6:00am-6:59am,Other,0
+Tuesday,6:00am-6:59am,Cloudy,36
+Tuesday,6:00am-6:59am,Blowing Snow,0
+Tuesday,6:00am-6:59am,Freezing Rain or Drizzle,0
+Tuesday,7:00am-7:59am,Clear,113
+Tuesday,7:00am-7:59am,Rain,10
+Tuesday,7:00am-7:59am,Sleet or Hail,0
+Tuesday,7:00am-7:59am,Snow,2
+Tuesday,7:00am-7:59am,"Fog, Smog, Smoke",8
+Tuesday,7:00am-7:59am,Severe Crosswinds,1
+Tuesday,7:00am-7:59am,Other,2
+Tuesday,7:00am-7:59am,Cloudy,23
+Tuesday,7:00am-7:59am,Blowing Snow,0
+Tuesday,7:00am-7:59am,Freezing Rain or Drizzle,1
+Tuesday,8:00am-8:59am,Clear,104
+Tuesday,8:00am-8:59am,Rain,8
+Tuesday,8:00am-8:59am,Sleet or Hail,1
+Tuesday,8:00am-8:59am,Snow,1
+Tuesday,8:00am-8:59am,"Fog, Smog, Smoke",5
+Tuesday,8:00am-8:59am,Severe Crosswinds,0
+Tuesday,8:00am-8:59am,Other,0
+Tuesday,8:00am-8:59am,Cloudy,23
+Tuesday,8:00am-8:59am,Blowing Snow,0
+Tuesday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Tuesday,9:00am-9:59am,Clear,92
+Tuesday,9:00am-9:59am,Rain,14
+Tuesday,9:00am-9:59am,Sleet or Hail,0
+Tuesday,9:00am-9:59am,Snow,1
+Tuesday,9:00am-9:59am,"Fog, Smog, Smoke",0
+Tuesday,9:00am-9:59am,Severe Crosswinds,0
+Tuesday,9:00am-9:59am,Other,0
+Tuesday,9:00am-9:59am,Cloudy,25
+Tuesday,9:00am-9:59am,Blowing Snow,0
+Tuesday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Tuesday,10:00am-10:59am,Clear,90
+Tuesday,10:00am-10:59am,Rain,10
+Tuesday,10:00am-10:59am,Sleet or Hail,0
+Tuesday,10:00am-10:59am,Snow,2
+Tuesday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Tuesday,10:00am-10:59am,Severe Crosswinds,0
+Tuesday,10:00am-10:59am,Other,1
+Tuesday,10:00am-10:59am,Cloudy,24
+Tuesday,10:00am-10:59am,Blowing Snow,1
+Tuesday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Tuesday,11:00am-11:59am,Clear,127
+Tuesday,11:00am-11:59am,Rain,10
+Tuesday,11:00am-11:59am,Sleet or Hail,0
+Tuesday,11:00am-11:59am,Snow,1
+Tuesday,11:00am-11:59am,"Fog, Smog, Smoke",0
+Tuesday,11:00am-11:59am,Severe Crosswinds,0
+Tuesday,11:00am-11:59am,Other,0
+Tuesday,11:00am-11:59am,Cloudy,22
+Tuesday,11:00am-11:59am,Blowing Snow,0
+Tuesday,11:00am-11:59am,Freezing Rain or Drizzle,1
+Tuesday,12:00pm-12:59pm,Clear,147
+Tuesday,12:00pm-12:59pm,Rain,9
+Tuesday,12:00pm-12:59pm,Sleet or Hail,1
+Tuesday,12:00pm-12:59pm,Snow,2
+Tuesday,12:00pm-12:59pm,"Fog, Smog, Smoke",0
+Tuesday,12:00pm-12:59pm,Severe Crosswinds,0
+Tuesday,12:00pm-12:59pm,Other,0
+Tuesday,12:00pm-12:59pm,Cloudy,34
+Tuesday,12:00pm-12:59pm,Blowing Snow,0
+Tuesday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Tuesday,1:00pm-1:59pm,Clear,157
+Tuesday,1:00pm-1:59pm,Rain,13
+Tuesday,1:00pm-1:59pm,Sleet or Hail,0
+Tuesday,1:00pm-1:59pm,Snow,2
+Tuesday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Tuesday,1:00pm-1:59pm,Severe Crosswinds,0
+Tuesday,1:00pm-1:59pm,Other,0
+Tuesday,1:00pm-1:59pm,Cloudy,24
+Tuesday,1:00pm-1:59pm,Blowing Snow,0
+Tuesday,1:00pm-1:59pm,Freezing Rain or Drizzle,1
+Tuesday,2:00pm-2:59pm,Clear,157
+Tuesday,2:00pm-2:59pm,Rain,9
+Tuesday,2:00pm-2:59pm,Sleet or Hail,0
+Tuesday,2:00pm-2:59pm,Snow,1
+Tuesday,2:00pm-2:59pm,"Fog, Smog, Smoke",1
+Tuesday,2:00pm-2:59pm,Severe Crosswinds,0
+Tuesday,2:00pm-2:59pm,Other,0
+Tuesday,2:00pm-2:59pm,Cloudy,40
+Tuesday,2:00pm-2:59pm,Blowing Snow,0
+Tuesday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Tuesday,3:00pm-3:59pm,Clear,124
+Tuesday,3:00pm-3:59pm,Rain,6
+Tuesday,3:00pm-3:59pm,Sleet or Hail,2
+Tuesday,3:00pm-3:59pm,Snow,1
+Tuesday,3:00pm-3:59pm,"Fog, Smog, Smoke",0
+Tuesday,3:00pm-3:59pm,Severe Crosswinds,0
+Tuesday,3:00pm-3:59pm,Other,0
+Tuesday,3:00pm-3:59pm,Cloudy,30
+Tuesday,3:00pm-3:59pm,Blowing Snow,0
+Tuesday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Tuesday,4:00pm-4:59pm,Clear,177
+Tuesday,4:00pm-4:59pm,Rain,9
+Tuesday,4:00pm-4:59pm,Sleet or Hail,0
+Tuesday,4:00pm-4:59pm,Snow,7
+Tuesday,4:00pm-4:59pm,"Fog, Smog, Smoke",0
+Tuesday,4:00pm-4:59pm,Severe Crosswinds,0
+Tuesday,4:00pm-4:59pm,Other,0
+Tuesday,4:00pm-4:59pm,Cloudy,27
+Tuesday,4:00pm-4:59pm,Blowing Snow,0
+Tuesday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Tuesday,5:00pm-5:59pm,Clear,191
+Tuesday,5:00pm-5:59pm,Rain,9
+Tuesday,5:00pm-5:59pm,Sleet or Hail,1
+Tuesday,5:00pm-5:59pm,Snow,3
+Tuesday,5:00pm-5:59pm,"Fog, Smog, Smoke",0
+Tuesday,5:00pm-5:59pm,Severe Crosswinds,0
+Tuesday,5:00pm-5:59pm,Other,0
+Tuesday,5:00pm-5:59pm,Cloudy,41
+Tuesday,5:00pm-5:59pm,Blowing Snow,0
+Tuesday,5:00pm-5:59pm,Freezing Rain or Drizzle,0
+Tuesday,6:00pm-6:59pm,Clear,161
+Tuesday,6:00pm-6:59pm,Rain,19
+Tuesday,6:00pm-6:59pm,Sleet or Hail,0
+Tuesday,6:00pm-6:59pm,Snow,5
+Tuesday,6:00pm-6:59pm,"Fog, Smog, Smoke",0
+Tuesday,6:00pm-6:59pm,Severe Crosswinds,0
+Tuesday,6:00pm-6:59pm,Other,0
+Tuesday,6:00pm-6:59pm,Cloudy,29
+Tuesday,6:00pm-6:59pm,Blowing Snow,0
+Tuesday,6:00pm-6:59pm,Freezing Rain or Drizzle,0
+Tuesday,7:00pm-7:59pm,Clear,162
+Tuesday,7:00pm-7:59pm,Rain,9
+Tuesday,7:00pm-7:59pm,Sleet or Hail,0
+Tuesday,7:00pm-7:59pm,Snow,0
+Tuesday,7:00pm-7:59pm,"Fog, Smog, Smoke",0
+Tuesday,7:00pm-7:59pm,Severe Crosswinds,0
+Tuesday,7:00pm-7:59pm,Other,1
+Tuesday,7:00pm-7:59pm,Cloudy,26
+Tuesday,7:00pm-7:59pm,Blowing Snow,0
+Tuesday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Tuesday,8:00pm-8:59pm,Clear,160
+Tuesday,8:00pm-8:59pm,Rain,17
+Tuesday,8:00pm-8:59pm,Sleet or Hail,0
+Tuesday,8:00pm-8:59pm,Snow,2
+Tuesday,8:00pm-8:59pm,"Fog, Smog, Smoke",1
+Tuesday,8:00pm-8:59pm,Severe Crosswinds,0
+Tuesday,8:00pm-8:59pm,Other,0
+Tuesday,8:00pm-8:59pm,Cloudy,18
+Tuesday,8:00pm-8:59pm,Blowing Snow,0
+Tuesday,8:00pm-8:59pm,Freezing Rain or Drizzle,0
+Tuesday,9:00pm-9:59pm,Clear,175
+Tuesday,9:00pm-9:59pm,Rain,10
+Tuesday,9:00pm-9:59pm,Sleet or Hail,0
+Tuesday,9:00pm-9:59pm,Snow,0
+Tuesday,9:00pm-9:59pm,"Fog, Smog, Smoke",0
+Tuesday,9:00pm-9:59pm,Severe Crosswinds,0
+Tuesday,9:00pm-9:59pm,Other,0
+Tuesday,9:00pm-9:59pm,Cloudy,28
+Tuesday,9:00pm-9:59pm,Blowing Snow,0
+Tuesday,9:00pm-9:59pm,Freezing Rain or Drizzle,0
+Tuesday,10:00pm-10:59pm,Clear,135
+Tuesday,10:00pm-10:59pm,Rain,12
+Tuesday,10:00pm-10:59pm,Sleet or Hail,0
+Tuesday,10:00pm-10:59pm,Snow,0
+Tuesday,10:00pm-10:59pm,"Fog, Smog, Smoke",4
+Tuesday,10:00pm-10:59pm,Severe Crosswinds,0
+Tuesday,10:00pm-10:59pm,Other,0
+Tuesday,10:00pm-10:59pm,Cloudy,25
+Tuesday,10:00pm-10:59pm,Blowing Snow,0
+Tuesday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Tuesday,11:00pm-11:59pm,Clear,113
+Tuesday,11:00pm-11:59pm,Rain,7
+Tuesday,11:00pm-11:59pm,Sleet or Hail,0
+Tuesday,11:00pm-11:59pm,Snow,0
+Tuesday,11:00pm-11:59pm,"Fog, Smog, Smoke",1
+Tuesday,11:00pm-11:59pm,Severe Crosswinds,0
+Tuesday,11:00pm-11:59pm,Other,0
+Tuesday,11:00pm-11:59pm,Cloudy,25
+Tuesday,11:00pm-11:59pm,Blowing Snow,0
+Tuesday,11:00pm-11:59pm,Freezing Rain or Drizzle,0
+Wednesday,0:00am-0:59am,Clear,107
+Wednesday,0:00am-0:59am,Rain,9
+Wednesday,0:00am-0:59am,Sleet or Hail,0
+Wednesday,0:00am-0:59am,Snow,1
+Wednesday,0:00am-0:59am,"Fog, Smog, Smoke",3
+Wednesday,0:00am-0:59am,Severe Crosswinds,0
+Wednesday,0:00am-0:59am,Other,0
+Wednesday,0:00am-0:59am,Cloudy,18
+Wednesday,0:00am-0:59am,Blowing Snow,0
+Wednesday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Wednesday,1:00am-1:59am,Clear,85
+Wednesday,1:00am-1:59am,Rain,7
+Wednesday,1:00am-1:59am,Sleet or Hail,0
+Wednesday,1:00am-1:59am,Snow,0
+Wednesday,1:00am-1:59am,"Fog, Smog, Smoke",5
+Wednesday,1:00am-1:59am,Severe Crosswinds,1
+Wednesday,1:00am-1:59am,Other,0
+Wednesday,1:00am-1:59am,Cloudy,21
+Wednesday,1:00am-1:59am,Blowing Snow,0
+Wednesday,1:00am-1:59am,Freezing Rain or Drizzle,0
+Wednesday,2:00am-2:59am,Clear,69
+Wednesday,2:00am-2:59am,Rain,7
+Wednesday,2:00am-2:59am,Sleet or Hail,0
+Wednesday,2:00am-2:59am,Snow,0
+Wednesday,2:00am-2:59am,"Fog, Smog, Smoke",3
+Wednesday,2:00am-2:59am,Severe Crosswinds,0
+Wednesday,2:00am-2:59am,Other,1
+Wednesday,2:00am-2:59am,Cloudy,16
+Wednesday,2:00am-2:59am,Blowing Snow,0
+Wednesday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Wednesday,3:00am-3:59am,Clear,60
+Wednesday,3:00am-3:59am,Rain,5
+Wednesday,3:00am-3:59am,Sleet or Hail,0
+Wednesday,3:00am-3:59am,Snow,0
+Wednesday,3:00am-3:59am,"Fog, Smog, Smoke",1
+Wednesday,3:00am-3:59am,Severe Crosswinds,0
+Wednesday,3:00am-3:59am,Other,0
+Wednesday,3:00am-3:59am,Cloudy,12
+Wednesday,3:00am-3:59am,Blowing Snow,0
+Wednesday,3:00am-3:59am,Freezing Rain or Drizzle,0
+Wednesday,4:00am-4:59am,Clear,59
+Wednesday,4:00am-4:59am,Rain,5
+Wednesday,4:00am-4:59am,Sleet or Hail,0
+Wednesday,4:00am-4:59am,Snow,1
+Wednesday,4:00am-4:59am,"Fog, Smog, Smoke",0
+Wednesday,4:00am-4:59am,Severe Crosswinds,1
+Wednesday,4:00am-4:59am,Other,0
+Wednesday,4:00am-4:59am,Cloudy,8
+Wednesday,4:00am-4:59am,Blowing Snow,1
+Wednesday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Wednesday,5:00am-5:59am,Clear,97
+Wednesday,5:00am-5:59am,Rain,6
+Wednesday,5:00am-5:59am,Sleet or Hail,1
+Wednesday,5:00am-5:59am,Snow,1
+Wednesday,5:00am-5:59am,"Fog, Smog, Smoke",5
+Wednesday,5:00am-5:59am,Severe Crosswinds,1
+Wednesday,5:00am-5:59am,Other,0
+Wednesday,5:00am-5:59am,Cloudy,24
+Wednesday,5:00am-5:59am,Blowing Snow,0
+Wednesday,5:00am-5:59am,Freezing Rain or Drizzle,0
+Wednesday,6:00am-6:59am,Clear,130
+Wednesday,6:00am-6:59am,Rain,10
+Wednesday,6:00am-6:59am,Sleet or Hail,0
+Wednesday,6:00am-6:59am,Snow,3
+Wednesday,6:00am-6:59am,"Fog, Smog, Smoke",7
+Wednesday,6:00am-6:59am,Severe Crosswinds,0
+Wednesday,6:00am-6:59am,Other,0
+Wednesday,6:00am-6:59am,Cloudy,39
+Wednesday,6:00am-6:59am,Blowing Snow,0
+Wednesday,6:00am-6:59am,Freezing Rain or Drizzle,0
+Wednesday,7:00am-7:59am,Clear,125
+Wednesday,7:00am-7:59am,Rain,7
+Wednesday,7:00am-7:59am,Sleet or Hail,1
+Wednesday,7:00am-7:59am,Snow,2
+Wednesday,7:00am-7:59am,"Fog, Smog, Smoke",2
+Wednesday,7:00am-7:59am,Severe Crosswinds,0
+Wednesday,7:00am-7:59am,Other,0
+Wednesday,7:00am-7:59am,Cloudy,34
+Wednesday,7:00am-7:59am,Blowing Snow,0
+Wednesday,7:00am-7:59am,Freezing Rain or Drizzle,0
+Wednesday,8:00am-8:59am,Clear,95
+Wednesday,8:00am-8:59am,Rain,2
+Wednesday,8:00am-8:59am,Sleet or Hail,0
+Wednesday,8:00am-8:59am,Snow,3
+Wednesday,8:00am-8:59am,"Fog, Smog, Smoke",5
+Wednesday,8:00am-8:59am,Severe Crosswinds,0
+Wednesday,8:00am-8:59am,Other,0
+Wednesday,8:00am-8:59am,Cloudy,26
+Wednesday,8:00am-8:59am,Blowing Snow,0
+Wednesday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Wednesday,9:00am-9:59am,Clear,88
+Wednesday,9:00am-9:59am,Rain,12
+Wednesday,9:00am-9:59am,Sleet or Hail,0
+Wednesday,9:00am-9:59am,Snow,2
+Wednesday,9:00am-9:59am,"Fog, Smog, Smoke",0
+Wednesday,9:00am-9:59am,Severe Crosswinds,0
+Wednesday,9:00am-9:59am,Other,0
+Wednesday,9:00am-9:59am,Cloudy,17
+Wednesday,9:00am-9:59am,Blowing Snow,0
+Wednesday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Wednesday,10:00am-10:59am,Clear,93
+Wednesday,10:00am-10:59am,Rain,4
+Wednesday,10:00am-10:59am,Sleet or Hail,0
+Wednesday,10:00am-10:59am,Snow,3
+Wednesday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Wednesday,10:00am-10:59am,Severe Crosswinds,1
+Wednesday,10:00am-10:59am,Other,0
+Wednesday,10:00am-10:59am,Cloudy,34
+Wednesday,10:00am-10:59am,Blowing Snow,0
+Wednesday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Wednesday,11:00am-11:59am,Clear,120
+Wednesday,11:00am-11:59am,Rain,5
+Wednesday,11:00am-11:59am,Sleet or Hail,0
+Wednesday,11:00am-11:59am,Snow,6
+Wednesday,11:00am-11:59am,"Fog, Smog, Smoke",0
+Wednesday,11:00am-11:59am,Severe Crosswinds,0
+Wednesday,11:00am-11:59am,Other,0
+Wednesday,11:00am-11:59am,Cloudy,24
+Wednesday,11:00am-11:59am,Blowing Snow,0
+Wednesday,11:00am-11:59am,Freezing Rain or Drizzle,0
+Wednesday,12:00pm-12:59pm,Clear,138
+Wednesday,12:00pm-12:59pm,Rain,5
+Wednesday,12:00pm-12:59pm,Sleet or Hail,2
+Wednesday,12:00pm-12:59pm,Snow,2
+Wednesday,12:00pm-12:59pm,"Fog, Smog, Smoke",0
+Wednesday,12:00pm-12:59pm,Severe Crosswinds,0
+Wednesday,12:00pm-12:59pm,Other,1
+Wednesday,12:00pm-12:59pm,Cloudy,26
+Wednesday,12:00pm-12:59pm,Blowing Snow,0
+Wednesday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Wednesday,1:00pm-1:59pm,Clear,147
+Wednesday,1:00pm-1:59pm,Rain,11
+Wednesday,1:00pm-1:59pm,Sleet or Hail,0
+Wednesday,1:00pm-1:59pm,Snow,1
+Wednesday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Wednesday,1:00pm-1:59pm,Severe Crosswinds,0
+Wednesday,1:00pm-1:59pm,Other,0
+Wednesday,1:00pm-1:59pm,Cloudy,39
+Wednesday,1:00pm-1:59pm,Blowing Snow,0
+Wednesday,1:00pm-1:59pm,Freezing Rain or Drizzle,0
+Wednesday,2:00pm-2:59pm,Clear,175
+Wednesday,2:00pm-2:59pm,Rain,16
+Wednesday,2:00pm-2:59pm,Sleet or Hail,1
+Wednesday,2:00pm-2:59pm,Snow,4
+Wednesday,2:00pm-2:59pm,"Fog, Smog, Smoke",1
+Wednesday,2:00pm-2:59pm,Severe Crosswinds,1
+Wednesday,2:00pm-2:59pm,Other,0
+Wednesday,2:00pm-2:59pm,Cloudy,31
+Wednesday,2:00pm-2:59pm,Blowing Snow,0
+Wednesday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Wednesday,3:00pm-3:59pm,Clear,185
+Wednesday,3:00pm-3:59pm,Rain,17
+Wednesday,3:00pm-3:59pm,Sleet or Hail,0
+Wednesday,3:00pm-3:59pm,Snow,1
+Wednesday,3:00pm-3:59pm,"Fog, Smog, Smoke",1
+Wednesday,3:00pm-3:59pm,Severe Crosswinds,3
+Wednesday,3:00pm-3:59pm,Other,0
+Wednesday,3:00pm-3:59pm,Cloudy,30
+Wednesday,3:00pm-3:59pm,Blowing Snow,0
+Wednesday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Wednesday,4:00pm-4:59pm,Clear,173
+Wednesday,4:00pm-4:59pm,Rain,13
+Wednesday,4:00pm-4:59pm,Sleet or Hail,0
+Wednesday,4:00pm-4:59pm,Snow,1
+Wednesday,4:00pm-4:59pm,"Fog, Smog, Smoke",0
+Wednesday,4:00pm-4:59pm,Severe Crosswinds,0
+Wednesday,4:00pm-4:59pm,Other,0
+Wednesday,4:00pm-4:59pm,Cloudy,27
+Wednesday,4:00pm-4:59pm,Blowing Snow,0
+Wednesday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Wednesday,5:00pm-5:59pm,Clear,190
+Wednesday,5:00pm-5:59pm,Rain,13
+Wednesday,5:00pm-5:59pm,Sleet or Hail,2
+Wednesday,5:00pm-5:59pm,Snow,3
+Wednesday,5:00pm-5:59pm,"Fog, Smog, Smoke",0
+Wednesday,5:00pm-5:59pm,Severe Crosswinds,0
+Wednesday,5:00pm-5:59pm,Other,0
+Wednesday,5:00pm-5:59pm,Cloudy,38
+Wednesday,5:00pm-5:59pm,Blowing Snow,0
+Wednesday,5:00pm-5:59pm,Freezing Rain or Drizzle,1
+Wednesday,6:00pm-6:59pm,Clear,175
+Wednesday,6:00pm-6:59pm,Rain,27
+Wednesday,6:00pm-6:59pm,Sleet or Hail,0
+Wednesday,6:00pm-6:59pm,Snow,2
+Wednesday,6:00pm-6:59pm,"Fog, Smog, Smoke",0
+Wednesday,6:00pm-6:59pm,Severe Crosswinds,0
+Wednesday,6:00pm-6:59pm,Other,0
+Wednesday,6:00pm-6:59pm,Cloudy,45
+Wednesday,6:00pm-6:59pm,Blowing Snow,0
+Wednesday,6:00pm-6:59pm,Freezing Rain or Drizzle,0
+Wednesday,7:00pm-7:59pm,Clear,207
+Wednesday,7:00pm-7:59pm,Rain,16
+Wednesday,7:00pm-7:59pm,Sleet or Hail,0
+Wednesday,7:00pm-7:59pm,Snow,3
+Wednesday,7:00pm-7:59pm,"Fog, Smog, Smoke",0
+Wednesday,7:00pm-7:59pm,Severe Crosswinds,1
+Wednesday,7:00pm-7:59pm,Other,0
+Wednesday,7:00pm-7:59pm,Cloudy,36
+Wednesday,7:00pm-7:59pm,Blowing Snow,0
+Wednesday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Wednesday,8:00pm-8:59pm,Clear,166
+Wednesday,8:00pm-8:59pm,Rain,25
+Wednesday,8:00pm-8:59pm,Sleet or Hail,0
+Wednesday,8:00pm-8:59pm,Snow,1
+Wednesday,8:00pm-8:59pm,"Fog, Smog, Smoke",3
+Wednesday,8:00pm-8:59pm,Severe Crosswinds,0
+Wednesday,8:00pm-8:59pm,Other,1
+Wednesday,8:00pm-8:59pm,Cloudy,36
+Wednesday,8:00pm-8:59pm,Blowing Snow,0
+Wednesday,8:00pm-8:59pm,Freezing Rain or Drizzle,0
+Wednesday,9:00pm-9:59pm,Clear,166
+Wednesday,9:00pm-9:59pm,Rain,10
+Wednesday,9:00pm-9:59pm,Sleet or Hail,0
+Wednesday,9:00pm-9:59pm,Snow,0
+Wednesday,9:00pm-9:59pm,"Fog, Smog, Smoke",1
+Wednesday,9:00pm-9:59pm,Severe Crosswinds,0
+Wednesday,9:00pm-9:59pm,Other,1
+Wednesday,9:00pm-9:59pm,Cloudy,28
+Wednesday,9:00pm-9:59pm,Blowing Snow,0
+Wednesday,9:00pm-9:59pm,Freezing Rain or Drizzle,0
+Wednesday,10:00pm-10:59pm,Clear,151
+Wednesday,10:00pm-10:59pm,Rain,7
+Wednesday,10:00pm-10:59pm,Sleet or Hail,0
+Wednesday,10:00pm-10:59pm,Snow,0
+Wednesday,10:00pm-10:59pm,"Fog, Smog, Smoke",1
+Wednesday,10:00pm-10:59pm,Severe Crosswinds,0
+Wednesday,10:00pm-10:59pm,Other,1
+Wednesday,10:00pm-10:59pm,Cloudy,25
+Wednesday,10:00pm-10:59pm,Blowing Snow,0
+Wednesday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Wednesday,11:00pm-11:59pm,Clear,124
+Wednesday,11:00pm-11:59pm,Rain,13
+Wednesday,11:00pm-11:59pm,Sleet or Hail,1
+Wednesday,11:00pm-11:59pm,Snow,1
+Wednesday,11:00pm-11:59pm,"Fog, Smog, Smoke",2
+Wednesday,11:00pm-11:59pm,Severe Crosswinds,0
+Wednesday,11:00pm-11:59pm,Other,0
+Wednesday,11:00pm-11:59pm,Cloudy,18
+Wednesday,11:00pm-11:59pm,Blowing Snow,0
+Wednesday,11:00pm-11:59pm,Freezing Rain or Drizzle,0
+Thursday,0:00am-0:59am,Clear,107
+Thursday,0:00am-0:59am,Rain,5
+Thursday,0:00am-0:59am,Sleet or Hail,0
+Thursday,0:00am-0:59am,Snow,3
+Thursday,0:00am-0:59am,"Fog, Smog, Smoke",1
+Thursday,0:00am-0:59am,Severe Crosswinds,0
+Thursday,0:00am-0:59am,Other,1
+Thursday,0:00am-0:59am,Cloudy,20
+Thursday,0:00am-0:59am,Blowing Snow,0
+Thursday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Thursday,1:00am-1:59am,Clear,87
+Thursday,1:00am-1:59am,Rain,7
+Thursday,1:00am-1:59am,Sleet or Hail,0
+Thursday,1:00am-1:59am,Snow,1
+Thursday,1:00am-1:59am,"Fog, Smog, Smoke",2
+Thursday,1:00am-1:59am,Severe Crosswinds,0
+Thursday,1:00am-1:59am,Other,0
+Thursday,1:00am-1:59am,Cloudy,17
+Thursday,1:00am-1:59am,Blowing Snow,0
+Thursday,1:00am-1:59am,Freezing Rain or Drizzle,0
+Thursday,2:00am-2:59am,Clear,85
+Thursday,2:00am-2:59am,Rain,8
+Thursday,2:00am-2:59am,Sleet or Hail,0
+Thursday,2:00am-2:59am,Snow,0
+Thursday,2:00am-2:59am,"Fog, Smog, Smoke",1
+Thursday,2:00am-2:59am,Severe Crosswinds,0
+Thursday,2:00am-2:59am,Other,0
+Thursday,2:00am-2:59am,Cloudy,15
+Thursday,2:00am-2:59am,Blowing Snow,0
+Thursday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Thursday,3:00am-3:59am,Clear,75
+Thursday,3:00am-3:59am,Rain,3
+Thursday,3:00am-3:59am,Sleet or Hail,0
+Thursday,3:00am-3:59am,Snow,1
+Thursday,3:00am-3:59am,"Fog, Smog, Smoke",5
+Thursday,3:00am-3:59am,Severe Crosswinds,0
+Thursday,3:00am-3:59am,Other,0
+Thursday,3:00am-3:59am,Cloudy,16
+Thursday,3:00am-3:59am,Blowing Snow,0
+Thursday,3:00am-3:59am,Freezing Rain or Drizzle,0
+Thursday,4:00am-4:59am,Clear,59
+Thursday,4:00am-4:59am,Rain,6
+Thursday,4:00am-4:59am,Sleet or Hail,0
+Thursday,4:00am-4:59am,Snow,2
+Thursday,4:00am-4:59am,"Fog, Smog, Smoke",1
+Thursday,4:00am-4:59am,Severe Crosswinds,1
+Thursday,4:00am-4:59am,Other,0
+Thursday,4:00am-4:59am,Cloudy,11
+Thursday,4:00am-4:59am,Blowing Snow,0
+Thursday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Thursday,5:00am-5:59am,Clear,110
+Thursday,5:00am-5:59am,Rain,13
+Thursday,5:00am-5:59am,Sleet or Hail,0
+Thursday,5:00am-5:59am,Snow,3
+Thursday,5:00am-5:59am,"Fog, Smog, Smoke",4
+Thursday,5:00am-5:59am,Severe Crosswinds,0
+Thursday,5:00am-5:59am,Other,0
+Thursday,5:00am-5:59am,Cloudy,23
+Thursday,5:00am-5:59am,Blowing Snow,0
+Thursday,5:00am-5:59am,Freezing Rain or Drizzle,0
+Thursday,6:00am-6:59am,Clear,120
+Thursday,6:00am-6:59am,Rain,17
+Thursday,6:00am-6:59am,Sleet or Hail,0
+Thursday,6:00am-6:59am,Snow,3
+Thursday,6:00am-6:59am,"Fog, Smog, Smoke",5
+Thursday,6:00am-6:59am,Severe Crosswinds,0
+Thursday,6:00am-6:59am,Other,0
+Thursday,6:00am-6:59am,Cloudy,34
+Thursday,6:00am-6:59am,Blowing Snow,0
+Thursday,6:00am-6:59am,Freezing Rain or Drizzle,0
+Thursday,7:00am-7:59am,Clear,122
+Thursday,7:00am-7:59am,Rain,14
+Thursday,7:00am-7:59am,Sleet or Hail,0
+Thursday,7:00am-7:59am,Snow,4
+Thursday,7:00am-7:59am,"Fog, Smog, Smoke",3
+Thursday,7:00am-7:59am,Severe Crosswinds,0
+Thursday,7:00am-7:59am,Other,1
+Thursday,7:00am-7:59am,Cloudy,36
+Thursday,7:00am-7:59am,Blowing Snow,0
+Thursday,7:00am-7:59am,Freezing Rain or Drizzle,0
+Thursday,8:00am-8:59am,Clear,89
+Thursday,8:00am-8:59am,Rain,17
+Thursday,8:00am-8:59am,Sleet or Hail,1
+Thursday,8:00am-8:59am,Snow,4
+Thursday,8:00am-8:59am,"Fog, Smog, Smoke",1
+Thursday,8:00am-8:59am,Severe Crosswinds,0
+Thursday,8:00am-8:59am,Other,0
+Thursday,8:00am-8:59am,Cloudy,23
+Thursday,8:00am-8:59am,Blowing Snow,0
+Thursday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Thursday,9:00am-9:59am,Clear,102
+Thursday,9:00am-9:59am,Rain,11
+Thursday,9:00am-9:59am,Sleet or Hail,0
+Thursday,9:00am-9:59am,Snow,5
+Thursday,9:00am-9:59am,"Fog, Smog, Smoke",1
+Thursday,9:00am-9:59am,Severe Crosswinds,0
+Thursday,9:00am-9:59am,Other,0
+Thursday,9:00am-9:59am,Cloudy,21
+Thursday,9:00am-9:59am,Blowing Snow,0
+Thursday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Thursday,10:00am-10:59am,Clear,99
+Thursday,10:00am-10:59am,Rain,10
+Thursday,10:00am-10:59am,Sleet or Hail,0
+Thursday,10:00am-10:59am,Snow,1
+Thursday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Thursday,10:00am-10:59am,Severe Crosswinds,1
+Thursday,10:00am-10:59am,Other,2
+Thursday,10:00am-10:59am,Cloudy,15
+Thursday,10:00am-10:59am,Blowing Snow,0
+Thursday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Thursday,11:00am-11:59am,Clear,129
+Thursday,11:00am-11:59am,Rain,8
+Thursday,11:00am-11:59am,Sleet or Hail,1
+Thursday,11:00am-11:59am,Snow,4
+Thursday,11:00am-11:59am,"Fog, Smog, Smoke",0
+Thursday,11:00am-11:59am,Severe Crosswinds,0
+Thursday,11:00am-11:59am,Other,1
+Thursday,11:00am-11:59am,Cloudy,31
+Thursday,11:00am-11:59am,Blowing Snow,1
+Thursday,11:00am-11:59am,Freezing Rain or Drizzle,0
+Thursday,12:00pm-12:59pm,Clear,130
+Thursday,12:00pm-12:59pm,Rain,8
+Thursday,12:00pm-12:59pm,Sleet or Hail,0
+Thursday,12:00pm-12:59pm,Snow,3
+Thursday,12:00pm-12:59pm,"Fog, Smog, Smoke",0
+Thursday,12:00pm-12:59pm,Severe Crosswinds,0
+Thursday,12:00pm-12:59pm,Other,0
+Thursday,12:00pm-12:59pm,Cloudy,30
+Thursday,12:00pm-12:59pm,Blowing Snow,0
+Thursday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Thursday,1:00pm-1:59pm,Clear,145
+Thursday,1:00pm-1:59pm,Rain,11
+Thursday,1:00pm-1:59pm,Sleet or Hail,1
+Thursday,1:00pm-1:59pm,Snow,1
+Thursday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Thursday,1:00pm-1:59pm,Severe Crosswinds,0
+Thursday,1:00pm-1:59pm,Other,0
+Thursday,1:00pm-1:59pm,Cloudy,33
+Thursday,1:00pm-1:59pm,Blowing Snow,1
+Thursday,1:00pm-1:59pm,Freezing Rain or Drizzle,0
+Thursday,2:00pm-2:59pm,Clear,156
+Thursday,2:00pm-2:59pm,Rain,13
+Thursday,2:00pm-2:59pm,Sleet or Hail,0
+Thursday,2:00pm-2:59pm,Snow,1
+Thursday,2:00pm-2:59pm,"Fog, Smog, Smoke",0
+Thursday,2:00pm-2:59pm,Severe Crosswinds,0
+Thursday,2:00pm-2:59pm,Other,1
+Thursday,2:00pm-2:59pm,Cloudy,47
+Thursday,2:00pm-2:59pm,Blowing Snow,0
+Thursday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Thursday,3:00pm-3:59pm,Clear,181
+Thursday,3:00pm-3:59pm,Rain,19
+Thursday,3:00pm-3:59pm,Sleet or Hail,0
+Thursday,3:00pm-3:59pm,Snow,1
+Thursday,3:00pm-3:59pm,"Fog, Smog, Smoke",0
+Thursday,3:00pm-3:59pm,Severe Crosswinds,2
+Thursday,3:00pm-3:59pm,Other,0
+Thursday,3:00pm-3:59pm,Cloudy,39
+Thursday,3:00pm-3:59pm,Blowing Snow,0
+Thursday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Thursday,4:00pm-4:59pm,Clear,179
+Thursday,4:00pm-4:59pm,Rain,18
+Thursday,4:00pm-4:59pm,Sleet or Hail,0
+Thursday,4:00pm-4:59pm,Snow,2
+Thursday,4:00pm-4:59pm,"Fog, Smog, Smoke",0
+Thursday,4:00pm-4:59pm,Severe Crosswinds,0
+Thursday,4:00pm-4:59pm,Other,0
+Thursday,4:00pm-4:59pm,Cloudy,51
+Thursday,4:00pm-4:59pm,Blowing Snow,0
+Thursday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Thursday,5:00pm-5:59pm,Clear,179
+Thursday,5:00pm-5:59pm,Rain,21
+Thursday,5:00pm-5:59pm,Sleet or Hail,2
+Thursday,5:00pm-5:59pm,Snow,2
+Thursday,5:00pm-5:59pm,"Fog, Smog, Smoke",0
+Thursday,5:00pm-5:59pm,Severe Crosswinds,0
+Thursday,5:00pm-5:59pm,Other,0
+Thursday,5:00pm-5:59pm,Cloudy,40
+Thursday,5:00pm-5:59pm,Blowing Snow,0
+Thursday,5:00pm-5:59pm,Freezing Rain or Drizzle,0
+Thursday,6:00pm-6:59pm,Clear,220
+Thursday,6:00pm-6:59pm,Rain,16
+Thursday,6:00pm-6:59pm,Sleet or Hail,0
+Thursday,6:00pm-6:59pm,Snow,2
+Thursday,6:00pm-6:59pm,"Fog, Smog, Smoke",0
+Thursday,6:00pm-6:59pm,Severe Crosswinds,0
+Thursday,6:00pm-6:59pm,Other,0
+Thursday,6:00pm-6:59pm,Cloudy,45
+Thursday,6:00pm-6:59pm,Blowing Snow,0
+Thursday,6:00pm-6:59pm,Freezing Rain or Drizzle,1
+Thursday,7:00pm-7:59pm,Clear,200
+Thursday,7:00pm-7:59pm,Rain,17
+Thursday,7:00pm-7:59pm,Sleet or Hail,0
+Thursday,7:00pm-7:59pm,Snow,2
+Thursday,7:00pm-7:59pm,"Fog, Smog, Smoke",1
+Thursday,7:00pm-7:59pm,Severe Crosswinds,0
+Thursday,7:00pm-7:59pm,Other,0
+Thursday,7:00pm-7:59pm,Cloudy,46
+Thursday,7:00pm-7:59pm,Blowing Snow,0
+Thursday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Thursday,8:00pm-8:59pm,Clear,179
+Thursday,8:00pm-8:59pm,Rain,11
+Thursday,8:00pm-8:59pm,Sleet or Hail,0
+Thursday,8:00pm-8:59pm,Snow,1
+Thursday,8:00pm-8:59pm,"Fog, Smog, Smoke",1
+Thursday,8:00pm-8:59pm,Severe Crosswinds,0
+Thursday,8:00pm-8:59pm,Other,0
+Thursday,8:00pm-8:59pm,Cloudy,44
+Thursday,8:00pm-8:59pm,Blowing Snow,0
+Thursday,8:00pm-8:59pm,Freezing Rain or Drizzle,1
+Thursday,9:00pm-9:59pm,Clear,180
+Thursday,9:00pm-9:59pm,Rain,22
+Thursday,9:00pm-9:59pm,Sleet or Hail,0
+Thursday,9:00pm-9:59pm,Snow,1
+Thursday,9:00pm-9:59pm,"Fog, Smog, Smoke",2
+Thursday,9:00pm-9:59pm,Severe Crosswinds,0
+Thursday,9:00pm-9:59pm,Other,0
+Thursday,9:00pm-9:59pm,Cloudy,27
+Thursday,9:00pm-9:59pm,Blowing Snow,0
+Thursday,9:00pm-9:59pm,Freezing Rain or Drizzle,1
+Thursday,10:00pm-10:59pm,Clear,165
+Thursday,10:00pm-10:59pm,Rain,20
+Thursday,10:00pm-10:59pm,Sleet or Hail,0
+Thursday,10:00pm-10:59pm,Snow,1
+Thursday,10:00pm-10:59pm,"Fog, Smog, Smoke",1
+Thursday,10:00pm-10:59pm,Severe Crosswinds,0
+Thursday,10:00pm-10:59pm,Other,0
+Thursday,10:00pm-10:59pm,Cloudy,35
+Thursday,10:00pm-10:59pm,Blowing Snow,0
+Thursday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Thursday,11:00pm-11:59pm,Clear,163
+Thursday,11:00pm-11:59pm,Rain,12
+Thursday,11:00pm-11:59pm,Sleet or Hail,0
+Thursday,11:00pm-11:59pm,Snow,2
+Thursday,11:00pm-11:59pm,"Fog, Smog, Smoke",1
+Thursday,11:00pm-11:59pm,Severe Crosswinds,0
+Thursday,11:00pm-11:59pm,Other,1
+Thursday,11:00pm-11:59pm,Cloudy,21
+Thursday,11:00pm-11:59pm,Blowing Snow,0
+Thursday,11:00pm-11:59pm,Freezing Rain or Drizzle,0
+Friday,0:00am-0:59am,Clear,125
+Friday,0:00am-0:59am,Rain,11
+Friday,0:00am-0:59am,Sleet or Hail,0
+Friday,0:00am-0:59am,Snow,0
+Friday,0:00am-0:59am,"Fog, Smog, Smoke",3
+Friday,0:00am-0:59am,Severe Crosswinds,1
+Friday,0:00am-0:59am,Other,2
+Friday,0:00am-0:59am,Cloudy,18
+Friday,0:00am-0:59am,Blowing Snow,0
+Friday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Friday,1:00am-1:59am,Clear,114
+Friday,1:00am-1:59am,Rain,9
+Friday,1:00am-1:59am,Sleet or Hail,0
+Friday,1:00am-1:59am,Snow,2
+Friday,1:00am-1:59am,"Fog, Smog, Smoke",2
+Friday,1:00am-1:59am,Severe Crosswinds,0
+Friday,1:00am-1:59am,Other,0
+Friday,1:00am-1:59am,Cloudy,25
+Friday,1:00am-1:59am,Blowing Snow,0
+Friday,1:00am-1:59am,Freezing Rain or Drizzle,0
+Friday,2:00am-2:59am,Clear,115
+Friday,2:00am-2:59am,Rain,14
+Friday,2:00am-2:59am,Sleet or Hail,0
+Friday,2:00am-2:59am,Snow,0
+Friday,2:00am-2:59am,"Fog, Smog, Smoke",1
+Friday,2:00am-2:59am,Severe Crosswinds,0
+Friday,2:00am-2:59am,Other,2
+Friday,2:00am-2:59am,Cloudy,26
+Friday,2:00am-2:59am,Blowing Snow,0
+Friday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Friday,3:00am-3:59am,Clear,78
+Friday,3:00am-3:59am,Rain,5
+Friday,3:00am-3:59am,Sleet or Hail,0
+Friday,3:00am-3:59am,Snow,1
+Friday,3:00am-3:59am,"Fog, Smog, Smoke",0
+Friday,3:00am-3:59am,Severe Crosswinds,0
+Friday,3:00am-3:59am,Other,0
+Friday,3:00am-3:59am,Cloudy,20
+Friday,3:00am-3:59am,Blowing Snow,0
+Friday,3:00am-3:59am,Freezing Rain or Drizzle,0
+Friday,4:00am-4:59am,Clear,79
+Friday,4:00am-4:59am,Rain,12
+Friday,4:00am-4:59am,Sleet or Hail,0
+Friday,4:00am-4:59am,Snow,1
+Friday,4:00am-4:59am,"Fog, Smog, Smoke",3
+Friday,4:00am-4:59am,Severe Crosswinds,0
+Friday,4:00am-4:59am,Other,0
+Friday,4:00am-4:59am,Cloudy,20
+Friday,4:00am-4:59am,Blowing Snow,0
+Friday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Friday,5:00am-5:59am,Clear,116
+Friday,5:00am-5:59am,Rain,17
+Friday,5:00am-5:59am,Sleet or Hail,0
+Friday,5:00am-5:59am,Snow,1
+Friday,5:00am-5:59am,"Fog, Smog, Smoke",6
+Friday,5:00am-5:59am,Severe Crosswinds,1
+Friday,5:00am-5:59am,Other,0
+Friday,5:00am-5:59am,Cloudy,34
+Friday,5:00am-5:59am,Blowing Snow,0
+Friday,5:00am-5:59am,Freezing Rain or Drizzle,0
+Friday,6:00am-6:59am,Clear,124
+Friday,6:00am-6:59am,Rain,4
+Friday,6:00am-6:59am,Sleet or Hail,0
+Friday,6:00am-6:59am,Snow,2
+Friday,6:00am-6:59am,"Fog, Smog, Smoke",8
+Friday,6:00am-6:59am,Severe Crosswinds,0
+Friday,6:00am-6:59am,Other,0
+Friday,6:00am-6:59am,Cloudy,39
+Friday,6:00am-6:59am,Blowing Snow,0
+Friday,6:00am-6:59am,Freezing Rain or Drizzle,0
+Friday,7:00am-7:59am,Clear,117
+Friday,7:00am-7:59am,Rain,7
+Friday,7:00am-7:59am,Sleet or Hail,1
+Friday,7:00am-7:59am,Snow,4
+Friday,7:00am-7:59am,"Fog, Smog, Smoke",7
+Friday,7:00am-7:59am,Severe Crosswinds,0
+Friday,7:00am-7:59am,Other,0
+Friday,7:00am-7:59am,Cloudy,27
+Friday,7:00am-7:59am,Blowing Snow,0
+Friday,7:00am-7:59am,Freezing Rain or Drizzle,0
+Friday,8:00am-8:59am,Clear,90
+Friday,8:00am-8:59am,Rain,14
+Friday,8:00am-8:59am,Sleet or Hail,1
+Friday,8:00am-8:59am,Snow,2
+Friday,8:00am-8:59am,"Fog, Smog, Smoke",1
+Friday,8:00am-8:59am,Severe Crosswinds,0
+Friday,8:00am-8:59am,Other,0
+Friday,8:00am-8:59am,Cloudy,31
+Friday,8:00am-8:59am,Blowing Snow,0
+Friday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Friday,9:00am-9:59am,Clear,104
+Friday,9:00am-9:59am,Rain,7
+Friday,9:00am-9:59am,Sleet or Hail,0
+Friday,9:00am-9:59am,Snow,1
+Friday,9:00am-9:59am,"Fog, Smog, Smoke",1
+Friday,9:00am-9:59am,Severe Crosswinds,0
+Friday,9:00am-9:59am,Other,0
+Friday,9:00am-9:59am,Cloudy,23
+Friday,9:00am-9:59am,Blowing Snow,1
+Friday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Friday,10:00am-10:59am,Clear,119
+Friday,10:00am-10:59am,Rain,3
+Friday,10:00am-10:59am,Sleet or Hail,0
+Friday,10:00am-10:59am,Snow,3
+Friday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Friday,10:00am-10:59am,Severe Crosswinds,0
+Friday,10:00am-10:59am,Other,0
+Friday,10:00am-10:59am,Cloudy,24
+Friday,10:00am-10:59am,Blowing Snow,0
+Friday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Friday,11:00am-11:59am,Clear,124
+Friday,11:00am-11:59am,Rain,12
+Friday,11:00am-11:59am,Sleet or Hail,0
+Friday,11:00am-11:59am,Snow,1
+Friday,11:00am-11:59am,"Fog, Smog, Smoke",0
+Friday,11:00am-11:59am,Severe Crosswinds,0
+Friday,11:00am-11:59am,Other,1
+Friday,11:00am-11:59am,Cloudy,23
+Friday,11:00am-11:59am,Blowing Snow,0
+Friday,11:00am-11:59am,Freezing Rain or Drizzle,0
+Friday,12:00pm-12:59pm,Clear,149
+Friday,12:00pm-12:59pm,Rain,13
+Friday,12:00pm-12:59pm,Sleet or Hail,0
+Friday,12:00pm-12:59pm,Snow,3
+Friday,12:00pm-12:59pm,"Fog, Smog, Smoke",1
+Friday,12:00pm-12:59pm,Severe Crosswinds,1
+Friday,12:00pm-12:59pm,Other,0
+Friday,12:00pm-12:59pm,Cloudy,26
+Friday,12:00pm-12:59pm,Blowing Snow,0
+Friday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Friday,1:00pm-1:59pm,Clear,150
+Friday,1:00pm-1:59pm,Rain,11
+Friday,1:00pm-1:59pm,Sleet or Hail,3
+Friday,1:00pm-1:59pm,Snow,2
+Friday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Friday,1:00pm-1:59pm,Severe Crosswinds,1
+Friday,1:00pm-1:59pm,Other,0
+Friday,1:00pm-1:59pm,Cloudy,38
+Friday,1:00pm-1:59pm,Blowing Snow,0
+Friday,1:00pm-1:59pm,Freezing Rain or Drizzle,0
+Friday,2:00pm-2:59pm,Clear,176
+Friday,2:00pm-2:59pm,Rain,12
+Friday,2:00pm-2:59pm,Sleet or Hail,1
+Friday,2:00pm-2:59pm,Snow,4
+Friday,2:00pm-2:59pm,"Fog, Smog, Smoke",1
+Friday,2:00pm-2:59pm,Severe Crosswinds,2
+Friday,2:00pm-2:59pm,Other,0
+Friday,2:00pm-2:59pm,Cloudy,39
+Friday,2:00pm-2:59pm,Blowing Snow,0
+Friday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Friday,3:00pm-3:59pm,Clear,203
+Friday,3:00pm-3:59pm,Rain,20
+Friday,3:00pm-3:59pm,Sleet or Hail,0
+Friday,3:00pm-3:59pm,Snow,1
+Friday,3:00pm-3:59pm,"Fog, Smog, Smoke",0
+Friday,3:00pm-3:59pm,Severe Crosswinds,0
+Friday,3:00pm-3:59pm,Other,2
+Friday,3:00pm-3:59pm,Cloudy,38
+Friday,3:00pm-3:59pm,Blowing Snow,0
+Friday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Friday,4:00pm-4:59pm,Clear,239
+Friday,4:00pm-4:59pm,Rain,16
+Friday,4:00pm-4:59pm,Sleet or Hail,1
+Friday,4:00pm-4:59pm,Snow,5
+Friday,4:00pm-4:59pm,"Fog, Smog, Smoke",0
+Friday,4:00pm-4:59pm,Severe Crosswinds,2
+Friday,4:00pm-4:59pm,Other,1
+Friday,4:00pm-4:59pm,Cloudy,42
+Friday,4:00pm-4:59pm,Blowing Snow,0
+Friday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Friday,5:00pm-5:59pm,Clear,196
+Friday,5:00pm-5:59pm,Rain,21
+Friday,5:00pm-5:59pm,Sleet or Hail,1
+Friday,5:00pm-5:59pm,Snow,2
+Friday,5:00pm-5:59pm,"Fog, Smog, Smoke",0
+Friday,5:00pm-5:59pm,Severe Crosswinds,0
+Friday,5:00pm-5:59pm,Other,0
+Friday,5:00pm-5:59pm,Cloudy,50
+Friday,5:00pm-5:59pm,Blowing Snow,0
+Friday,5:00pm-5:59pm,Freezing Rain or Drizzle,1
+Friday,6:00pm-6:59pm,Clear,205
+Friday,6:00pm-6:59pm,Rain,18
+Friday,6:00pm-6:59pm,Sleet or Hail,1
+Friday,6:00pm-6:59pm,Snow,5
+Friday,6:00pm-6:59pm,"Fog, Smog, Smoke",1
+Friday,6:00pm-6:59pm,Severe Crosswinds,0
+Friday,6:00pm-6:59pm,Other,3
+Friday,6:00pm-6:59pm,Cloudy,37
+Friday,6:00pm-6:59pm,Blowing Snow,0
+Friday,6:00pm-6:59pm,Freezing Rain or Drizzle,0
+Friday,7:00pm-7:59pm,Clear,199
+Friday,7:00pm-7:59pm,Rain,26
+Friday,7:00pm-7:59pm,Sleet or Hail,0
+Friday,7:00pm-7:59pm,Snow,1
+Friday,7:00pm-7:59pm,"Fog, Smog, Smoke",2
+Friday,7:00pm-7:59pm,Severe Crosswinds,0
+Friday,7:00pm-7:59pm,Other,1
+Friday,7:00pm-7:59pm,Cloudy,41
+Friday,7:00pm-7:59pm,Blowing Snow,0
+Friday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Friday,8:00pm-8:59pm,Clear,229
+Friday,8:00pm-8:59pm,Rain,16
+Friday,8:00pm-8:59pm,Sleet or Hail,0
+Friday,8:00pm-8:59pm,Snow,6
+Friday,8:00pm-8:59pm,"Fog, Smog, Smoke",6
+Friday,8:00pm-8:59pm,Severe Crosswinds,0
+Friday,8:00pm-8:59pm,Other,1
+Friday,8:00pm-8:59pm,Cloudy,50
+Friday,8:00pm-8:59pm,Blowing Snow,0
+Friday,8:00pm-8:59pm,Freezing Rain or Drizzle,0
+Friday,9:00pm-9:59pm,Clear,230
+Friday,9:00pm-9:59pm,Rain,24
+Friday,9:00pm-9:59pm,Sleet or Hail,0
+Friday,9:00pm-9:59pm,Snow,2
+Friday,9:00pm-9:59pm,"Fog, Smog, Smoke",5
+Friday,9:00pm-9:59pm,Severe Crosswinds,0
+Friday,9:00pm-9:59pm,Other,0
+Friday,9:00pm-9:59pm,Cloudy,42
+Friday,9:00pm-9:59pm,Blowing Snow,1
+Friday,9:00pm-9:59pm,Freezing Rain or Drizzle,0
+Friday,10:00pm-10:59pm,Clear,211
+Friday,10:00pm-10:59pm,Rain,24
+Friday,10:00pm-10:59pm,Sleet or Hail,1
+Friday,10:00pm-10:59pm,Snow,3
+Friday,10:00pm-10:59pm,"Fog, Smog, Smoke",4
+Friday,10:00pm-10:59pm,Severe Crosswinds,0
+Friday,10:00pm-10:59pm,Other,1
+Friday,10:00pm-10:59pm,Cloudy,50
+Friday,10:00pm-10:59pm,Blowing Snow,0
+Friday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Friday,11:00pm-11:59pm,Clear,228
+Friday,11:00pm-11:59pm,Rain,17
+Friday,11:00pm-11:59pm,Sleet or Hail,2
+Friday,11:00pm-11:59pm,Snow,0
+Friday,11:00pm-11:59pm,"Fog, Smog, Smoke",4
+Friday,11:00pm-11:59pm,Severe Crosswinds,1
+Friday,11:00pm-11:59pm,Other,1
+Friday,11:00pm-11:59pm,Cloudy,48
+Friday,11:00pm-11:59pm,Blowing Snow,0
+Friday,11:00pm-11:59pm,Freezing Rain or Drizzle,1
+Saturday,0:00am-0:59am,Clear,238
+Saturday,0:00am-0:59am,Rain,18
+Saturday,0:00am-0:59am,Sleet or Hail,0
+Saturday,0:00am-0:59am,Snow,5
+Saturday,0:00am-0:59am,"Fog, Smog, Smoke",4
+Saturday,0:00am-0:59am,Severe Crosswinds,0
+Saturday,0:00am-0:59am,Other,0
+Saturday,0:00am-0:59am,Cloudy,53
+Saturday,0:00am-0:59am,Blowing Snow,0
+Saturday,0:00am-0:59am,Freezing Rain or Drizzle,0
+Saturday,1:00am-1:59am,Clear,236
+Saturday,1:00am-1:59am,Rain,23
+Saturday,1:00am-1:59am,Sleet or Hail,2
+Saturday,1:00am-1:59am,Snow,1
+Saturday,1:00am-1:59am,"Fog, Smog, Smoke",2
+Saturday,1:00am-1:59am,Severe Crosswinds,0
+Saturday,1:00am-1:59am,Other,1
+Saturday,1:00am-1:59am,Cloudy,47
+Saturday,1:00am-1:59am,Blowing Snow,0
+Saturday,1:00am-1:59am,Freezing Rain or Drizzle,1
+Saturday,2:00am-2:59am,Clear,281
+Saturday,2:00am-2:59am,Rain,15
+Saturday,2:00am-2:59am,Sleet or Hail,0
+Saturday,2:00am-2:59am,Snow,8
+Saturday,2:00am-2:59am,"Fog, Smog, Smoke",0
+Saturday,2:00am-2:59am,Severe Crosswinds,0
+Saturday,2:00am-2:59am,Other,0
+Saturday,2:00am-2:59am,Cloudy,34
+Saturday,2:00am-2:59am,Blowing Snow,0
+Saturday,2:00am-2:59am,Freezing Rain or Drizzle,0
+Saturday,3:00am-3:59am,Clear,203
+Saturday,3:00am-3:59am,Rain,13
+Saturday,3:00am-3:59am,Sleet or Hail,0
+Saturday,3:00am-3:59am,Snow,1
+Saturday,3:00am-3:59am,"Fog, Smog, Smoke",6
+Saturday,3:00am-3:59am,Severe Crosswinds,0
+Saturday,3:00am-3:59am,Other,0
+Saturday,3:00am-3:59am,Cloudy,30
+Saturday,3:00am-3:59am,Blowing Snow,0
+Saturday,3:00am-3:59am,Freezing Rain or Drizzle,0
+Saturday,4:00am-4:59am,Clear,120
+Saturday,4:00am-4:59am,Rain,13
+Saturday,4:00am-4:59am,Sleet or Hail,0
+Saturday,4:00am-4:59am,Snow,2
+Saturday,4:00am-4:59am,"Fog, Smog, Smoke",5
+Saturday,4:00am-4:59am,Severe Crosswinds,0
+Saturday,4:00am-4:59am,Other,1
+Saturday,4:00am-4:59am,Cloudy,20
+Saturday,4:00am-4:59am,Blowing Snow,1
+Saturday,4:00am-4:59am,Freezing Rain or Drizzle,0
+Saturday,5:00am-5:59am,Clear,123
+Saturday,5:00am-5:59am,Rain,5
+Saturday,5:00am-5:59am,Sleet or Hail,0
+Saturday,5:00am-5:59am,Snow,4
+Saturday,5:00am-5:59am,"Fog, Smog, Smoke",6
+Saturday,5:00am-5:59am,Severe Crosswinds,1
+Saturday,5:00am-5:59am,Other,1
+Saturday,5:00am-5:59am,Cloudy,31
+Saturday,5:00am-5:59am,Blowing Snow,0
+Saturday,5:00am-5:59am,Freezing Rain or Drizzle,1
+Saturday,6:00am-6:59am,Clear,99
+Saturday,6:00am-6:59am,Rain,10
+Saturday,6:00am-6:59am,Sleet or Hail,0
+Saturday,6:00am-6:59am,Snow,2
+Saturday,6:00am-6:59am,"Fog, Smog, Smoke",6
+Saturday,6:00am-6:59am,Severe Crosswinds,0
+Saturday,6:00am-6:59am,Other,1
+Saturday,6:00am-6:59am,Cloudy,22
+Saturday,6:00am-6:59am,Blowing Snow,0
+Saturday,6:00am-6:59am,Freezing Rain or Drizzle,1
+Saturday,7:00am-7:59am,Clear,84
+Saturday,7:00am-7:59am,Rain,7
+Saturday,7:00am-7:59am,Sleet or Hail,1
+Saturday,7:00am-7:59am,Snow,2
+Saturday,7:00am-7:59am,"Fog, Smog, Smoke",3
+Saturday,7:00am-7:59am,Severe Crosswinds,0
+Saturday,7:00am-7:59am,Other,1
+Saturday,7:00am-7:59am,Cloudy,28
+Saturday,7:00am-7:59am,Blowing Snow,0
+Saturday,7:00am-7:59am,Freezing Rain or Drizzle,0
+Saturday,8:00am-8:59am,Clear,89
+Saturday,8:00am-8:59am,Rain,13
+Saturday,8:00am-8:59am,Sleet or Hail,0
+Saturday,8:00am-8:59am,Snow,1
+Saturday,8:00am-8:59am,"Fog, Smog, Smoke",6
+Saturday,8:00am-8:59am,Severe Crosswinds,1
+Saturday,8:00am-8:59am,Other,0
+Saturday,8:00am-8:59am,Cloudy,24
+Saturday,8:00am-8:59am,Blowing Snow,0
+Saturday,8:00am-8:59am,Freezing Rain or Drizzle,0
+Saturday,9:00am-9:59am,Clear,91
+Saturday,9:00am-9:59am,Rain,6
+Saturday,9:00am-9:59am,Sleet or Hail,1
+Saturday,9:00am-9:59am,Snow,1
+Saturday,9:00am-9:59am,"Fog, Smog, Smoke",2
+Saturday,9:00am-9:59am,Severe Crosswinds,1
+Saturday,9:00am-9:59am,Other,0
+Saturday,9:00am-9:59am,Cloudy,20
+Saturday,9:00am-9:59am,Blowing Snow,0
+Saturday,9:00am-9:59am,Freezing Rain or Drizzle,0
+Saturday,10:00am-10:59am,Clear,125
+Saturday,10:00am-10:59am,Rain,12
+Saturday,10:00am-10:59am,Sleet or Hail,0
+Saturday,10:00am-10:59am,Snow,2
+Saturday,10:00am-10:59am,"Fog, Smog, Smoke",0
+Saturday,10:00am-10:59am,Severe Crosswinds,1
+Saturday,10:00am-10:59am,Other,1
+Saturday,10:00am-10:59am,Cloudy,27
+Saturday,10:00am-10:59am,Blowing Snow,0
+Saturday,10:00am-10:59am,Freezing Rain or Drizzle,0
+Saturday,11:00am-11:59am,Clear,142
+Saturday,11:00am-11:59am,Rain,12
+Saturday,11:00am-11:59am,Sleet or Hail,1
+Saturday,11:00am-11:59am,Snow,3
+Saturday,11:00am-11:59am,"Fog, Smog, Smoke",1
+Saturday,11:00am-11:59am,Severe Crosswinds,0
+Saturday,11:00am-11:59am,Other,1
+Saturday,11:00am-11:59am,Cloudy,27
+Saturday,11:00am-11:59am,Blowing Snow,0
+Saturday,11:00am-11:59am,Freezing Rain or Drizzle,1
+Saturday,12:00pm-12:59pm,Clear,140
+Saturday,12:00pm-12:59pm,Rain,12
+Saturday,12:00pm-12:59pm,Sleet or Hail,0
+Saturday,12:00pm-12:59pm,Snow,2
+Saturday,12:00pm-12:59pm,"Fog, Smog, Smoke",1
+Saturday,12:00pm-12:59pm,Severe Crosswinds,0
+Saturday,12:00pm-12:59pm,Other,0
+Saturday,12:00pm-12:59pm,Cloudy,29
+Saturday,12:00pm-12:59pm,Blowing Snow,0
+Saturday,12:00pm-12:59pm,Freezing Rain or Drizzle,0
+Saturday,1:00pm-1:59pm,Clear,197
+Saturday,1:00pm-1:59pm,Rain,5
+Saturday,1:00pm-1:59pm,Sleet or Hail,0
+Saturday,1:00pm-1:59pm,Snow,2
+Saturday,1:00pm-1:59pm,"Fog, Smog, Smoke",0
+Saturday,1:00pm-1:59pm,Severe Crosswinds,0
+Saturday,1:00pm-1:59pm,Other,0
+Saturday,1:00pm-1:59pm,Cloudy,30
+Saturday,1:00pm-1:59pm,Blowing Snow,0
+Saturday,1:00pm-1:59pm,Freezing Rain or Drizzle,0
+Saturday,2:00pm-2:59pm,Clear,156
+Saturday,2:00pm-2:59pm,Rain,7
+Saturday,2:00pm-2:59pm,Sleet or Hail,2
+Saturday,2:00pm-2:59pm,Snow,4
+Saturday,2:00pm-2:59pm,"Fog, Smog, Smoke",1
+Saturday,2:00pm-2:59pm,Severe Crosswinds,0
+Saturday,2:00pm-2:59pm,Other,0
+Saturday,2:00pm-2:59pm,Cloudy,44
+Saturday,2:00pm-2:59pm,Blowing Snow,0
+Saturday,2:00pm-2:59pm,Freezing Rain or Drizzle,0
+Saturday,3:00pm-3:59pm,Clear,212
+Saturday,3:00pm-3:59pm,Rain,12
+Saturday,3:00pm-3:59pm,Sleet or Hail,1
+Saturday,3:00pm-3:59pm,Snow,3
+Saturday,3:00pm-3:59pm,"Fog, Smog, Smoke",0
+Saturday,3:00pm-3:59pm,Severe Crosswinds,0
+Saturday,3:00pm-3:59pm,Other,0
+Saturday,3:00pm-3:59pm,Cloudy,35
+Saturday,3:00pm-3:59pm,Blowing Snow,0
+Saturday,3:00pm-3:59pm,Freezing Rain or Drizzle,0
+Saturday,4:00pm-4:59pm,Clear,234
+Saturday,4:00pm-4:59pm,Rain,13
+Saturday,4:00pm-4:59pm,Sleet or Hail,0
+Saturday,4:00pm-4:59pm,Snow,1
+Saturday,4:00pm-4:59pm,"Fog, Smog, Smoke",2
+Saturday,4:00pm-4:59pm,Severe Crosswinds,2
+Saturday,4:00pm-4:59pm,Other,1
+Saturday,4:00pm-4:59pm,Cloudy,29
+Saturday,4:00pm-4:59pm,Blowing Snow,0
+Saturday,4:00pm-4:59pm,Freezing Rain or Drizzle,0
+Saturday,5:00pm-5:59pm,Clear,198
+Saturday,5:00pm-5:59pm,Rain,28
+Saturday,5:00pm-5:59pm,Sleet or Hail,1
+Saturday,5:00pm-5:59pm,Snow,2
+Saturday,5:00pm-5:59pm,"Fog, Smog, Smoke",0
+Saturday,5:00pm-5:59pm,Severe Crosswinds,1
+Saturday,5:00pm-5:59pm,Other,0
+Saturday,5:00pm-5:59pm,Cloudy,39
+Saturday,5:00pm-5:59pm,Blowing Snow,0
+Saturday,5:00pm-5:59pm,Freezing Rain or Drizzle,0
+Saturday,6:00pm-6:59pm,Clear,257
+Saturday,6:00pm-6:59pm,Rain,19
+Saturday,6:00pm-6:59pm,Sleet or Hail,3
+Saturday,6:00pm-6:59pm,Snow,0
+Saturday,6:00pm-6:59pm,"Fog, Smog, Smoke",1
+Saturday,6:00pm-6:59pm,Severe Crosswinds,1
+Saturday,6:00pm-6:59pm,Other,0
+Saturday,6:00pm-6:59pm,Cloudy,43
+Saturday,6:00pm-6:59pm,Blowing Snow,0
+Saturday,6:00pm-6:59pm,Freezing Rain or Drizzle,0
+Saturday,7:00pm-7:59pm,Clear,263
+Saturday,7:00pm-7:59pm,Rain,16
+Saturday,7:00pm-7:59pm,Sleet or Hail,0
+Saturday,7:00pm-7:59pm,Snow,3
+Saturday,7:00pm-7:59pm,"Fog, Smog, Smoke",0
+Saturday,7:00pm-7:59pm,Severe Crosswinds,0
+Saturday,7:00pm-7:59pm,Other,0
+Saturday,7:00pm-7:59pm,Cloudy,45
+Saturday,7:00pm-7:59pm,Blowing Snow,1
+Saturday,7:00pm-7:59pm,Freezing Rain or Drizzle,0
+Saturday,8:00pm-8:59pm,Clear,229
+Saturday,8:00pm-8:59pm,Rain,22
+Saturday,8:00pm-8:59pm,Sleet or Hail,1
+Saturday,8:00pm-8:59pm,Snow,2
+Saturday,8:00pm-8:59pm,"Fog, Smog, Smoke",3
+Saturday,8:00pm-8:59pm,Severe Crosswinds,0
+Saturday,8:00pm-8:59pm,Other,1
+Saturday,8:00pm-8:59pm,Cloudy,40
+Saturday,8:00pm-8:59pm,Blowing Snow,0
+Saturday,8:00pm-8:59pm,Freezing Rain or Drizzle,0
+Saturday,9:00pm-9:59pm,Clear,240
+Saturday,9:00pm-9:59pm,Rain,28
+Saturday,9:00pm-9:59pm,Sleet or Hail,0
+Saturday,9:00pm-9:59pm,Snow,2
+Saturday,9:00pm-9:59pm,"Fog, Smog, Smoke",1
+Saturday,9:00pm-9:59pm,Severe Crosswinds,0
+Saturday,9:00pm-9:59pm,Other,1
+Saturday,9:00pm-9:59pm,Cloudy,40
+Saturday,9:00pm-9:59pm,Blowing Snow,0
+Saturday,9:00pm-9:59pm,Freezing Rain or Drizzle,0
+Saturday,10:00pm-10:59pm,Clear,230
+Saturday,10:00pm-10:59pm,Rain,24
+Saturday,10:00pm-10:59pm,Sleet or Hail,0
+Saturday,10:00pm-10:59pm,Snow,4
+Saturday,10:00pm-10:59pm,"Fog, Smog, Smoke",3
+Saturday,10:00pm-10:59pm,Severe Crosswinds,0
+Saturday,10:00pm-10:59pm,Other,0
+Saturday,10:00pm-10:59pm,Cloudy,49
+Saturday,10:00pm-10:59pm,Blowing Snow,0
+Saturday,10:00pm-10:59pm,Freezing Rain or Drizzle,0
+Saturday,11:00pm-11:59pm,Clear,227
+Saturday,11:00pm-11:59pm,Rain,20
+Saturday,11:00pm-11:59pm,Sleet or Hail,0
+Saturday,11:00pm-11:59pm,Snow,4
+Saturday,11:00pm-11:59pm,"Fog, Smog, Smoke",2
+Saturday,11:00pm-11:59pm,Severe Crosswinds,0
+Saturday,11:00pm-11:59pm,Other,2
+Saturday,11:00pm-11:59pm,Cloudy,36
+Saturday,11:00pm-11:59pm,Blowing Snow,0
+Saturday,11:00pm-11:59pm,Freezing Rain or Drizzle,0
