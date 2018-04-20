@@ -1,6 +1,6 @@
 # automobile-fatality-prediction
 
-## Description
+### Description
 Attempts to accurately predict the number of fatalities caused by automobile-related incidents given the hour, day of the week, and the current weather conditions. 
 
 
